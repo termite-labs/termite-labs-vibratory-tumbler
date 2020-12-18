@@ -1,15 +1,18 @@
-# 3d-printed-vibratory-tumbler
+# Termite Labs - 3D Printed Vibratory Tumbler 
 
-Termite Labs - 3D Printed Vibratory Tumbler - Micro V0.5
+Version Micro 0.5
 
-This is a small vibratory tumbler I put together with my 3D printer and parts I had available at home, but the goal is create an open source, affortable, easy to print and assemble vibratory tumbler, useful for finsishing and polishing 3D printed parts or other objects.
+This is a small vibratory tumbler I put together with my 3D printer and parts I had available at home, but the goal is to create an open source, affortable, easy to print and assemble vibratory tumbler, useful for finsishing and polishing 3D printed parts or other objects.
 
 __I need help improving this design. Go to the [Contributing](#contributing) section to help answer some questions.__
 
 Photo, Video, Before/After
 
 # !!! WARNING !!!
-This projects features a rapidly spinning electric motor with a 3d printed part attached to it. __This can dangerous and you need to be careful.__ __DO NOT ASSUME THIS IS SAFE.__ 
+* This projects features a __rapidly spinning electric motor__ with an eccenric load
+* __This can be dangerous, please be careful__ 
+* __Do not assume this is safe just because it's on the internet__ 
+* __I can't accept any responsibility if you or someone else gets hurt of property is damaged__
 
 ## Table Of Contents
 
@@ -23,10 +26,18 @@ This projects features a rapidly spinning electric motor with a 3d printed part 
 
 ## Printing the parts
 
-* [Base - V0.5 STL]()
-* [Top - V0.5 STL]()
-* [Weight - Part A - V0.5 STL]()
-* [Weight - Part B - V0.5 STL]()
+
+* [Frame Base - V0.5 STL](Termite_Vibratory_Tumbler_Micro_V0.5-Frame_Base.stl)
+* [Frame Top - V0.5 STL](Termite_Vibratory_Tumbler_Micro_V0.5-Frame_Base.stl)
+* [Frame Weight Part A - V0.5 STL](Termite_Vibratory_Tumbler_Micro_V0.5-Weight_A.stl)
+* [Frame Weight - Part B - V0.5 STL](Termite_Vibratory_Tumbler_Micro_V0.5-Weight_B.stl)
+
+
+|       |  |
+| ----------- | ----------- |
+| [Frame Base - V0.5 STL](Termite_Vibratory_Tumbler_Micro_V0.5-Frame_Base.stl)      | ![Springs](assets/spring.jpg)       |
+
+
 
 I printed my parts in eSun PLA+, 0.3mm layer height and medium speed for my printer. I recommend to use high setting for your layer height as it should make the parts stronger, at the cost of aesthetics. 
 
@@ -36,6 +47,7 @@ _(I designed this using Fusion 360, but I can't share the project to be edited b
 
 * 1x Motor
 * 4x Springs
+* 1x Container
 * Nx My XXmm Screws with bolts
 * Nx Washers
 * 2x lengths of wire
@@ -56,22 +68,14 @@ _(I designed this using Fusion 360, but I can't share the project to be edited b
 
 ### Springs
 
-The parts are designed specifically for springs of this size. I provided links for Amazon US and UK. If you find this part in other countries, or not on Amazon, please let me know and I can add it here.
+The base and top are designed specifically for springs of this size and length. I provided links for Amazon US and UK. If you find this part in other countries, or not on Amazon, please let me know and I can add it here.
 
-* [Amazon UK]()
-* [Amazon US]()
-
-
-![Springs](assets/springs.jpg)
+* [Amazon UK](https://www.amazon.co.uk/gp/product/B07M6JT46T/)
+* [Amazon US](https://www.amazon.com/uxcell-Diameter-Stainless-Extended-Compressed/dp/B07MHGLW1Q) (Seemps to be out of stock - help me find a substitute)
 
 
-| Part			 | Amazon UK   | Amazon US 
-| -----------	 | ----------- | --------
-| Motor      	 | Title       |
-| Springs   	 | Text        |
-| Screws		 | 
-| Washers		 |
-| Container 	 |
+![Springs](assets/spring.jpg)
+
 
 
 ## Tools
@@ -109,16 +113,31 @@ Disclosure: the links have have affiliate blah blah and I may earn a small commi
 
 ## Running
 
+## Contributing
 
-## Future features
+### Try it out
 
-* Narrower holes to support smaller cups
-* Heavier and Shorter Weight
+* Make it and send feedback and pics
+* Polish parts using different media, time and material combinations to build a catalog of ways of smoothing
+
+### Advice
+
+* I need advice on choosing a motor for the next version:
+	* Ideally it's of a standard size that is easy to find around the world
+	* Ideally it's effective at 12V, because 24V power adapters cost much more
+	* Idelaly it costs at most around 20$
+
+* Redesign using open source tools?
+
+## Version History
+
+V0.5
+
+## Future
+
 * Manage motor wire in a better way
 * Safety Cage
-* Center Funnel
 * Switch
-* Rubber Feet
 * Motor cooling to prevent plastic to go soft
 * Spring locking mechanism
 * Bracket for swapping cups
@@ -130,17 +149,6 @@ Disclosure: the links have have affiliate blah blah and I may earn a small commi
 * Analog Timer
 * Analog Control (finishing programs)
 * Share Fusion 360 Design (Needs commercial version)
-
-## Contributing
-
-* Fork and send pull requests
-* Build it and share before/after with different types of media, times and prints. See what's needed.
-* Modifyy Fusion 360 designs
-* Redesign using open source tools?
-
-## Version History
-
-V0.5
 
 ## License
 
