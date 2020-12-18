@@ -33,9 +33,14 @@ Photo, Video, Before/After
 * [Frame Weight - Part B - V0.5 STL](Termite_Vibratory_Tumbler_Micro_V0.5-Weight_B.stl)
 
 
+
 |       |  |
 | ----------- | ----------- |
-| [Frame Base - V0.5 STL](Termite_Vibratory_Tumbler_Micro_V0.5-Frame_Base.stl)      | ![Springs](assets/spring.jpg)       |
+| [Frame Base STL](Termite_Vibratory_Tumbler_Micro_V0.5-Frame_Base.stl)      | ![Base](assets/Termite_Vibratory_Tumbler_Micro_V0.5-Frame_Base.stl.png)       |
+| [Frame Top STL](Termite_Vibratory_Tumbler_Micro_V0.5-Frame_Top.stl)      | ![Base](assets/Termite_Vibratory_Tumbler_Micro_V0.5-Frame_Top.stl.png)       |
+| [Weight Part A STL](Termite_Vibratory_Tumbler_Micro_V0.5-Weight_A.stl)      | ![Base](assets/Termite_Vibratory_Tumbler_Micro_V0.5-Weight_A.stl.png)       |
+| [Weight Part A STL](Termite_Vibratory_Tumbler_Micro_V0.5-Weight_B.stl)      | ![Base](assets/Termite_Vibratory_Tumbler_Micro_V0.5-Weight_B.stl.png)       |
+
 
 
 
