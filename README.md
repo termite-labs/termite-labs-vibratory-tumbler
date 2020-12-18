@@ -26,27 +26,17 @@ Photo, Video, Before/After
 
 ## Printing the parts
 
-
-* [Frame Base - V0.5 STL](Termite_Vibratory_Tumbler_Micro_V0.5-Frame_Base.stl)
-* [Frame Top - V0.5 STL](Termite_Vibratory_Tumbler_Micro_V0.5-Frame_Base.stl)
-* [Frame Weight Part A - V0.5 STL](Termite_Vibratory_Tumbler_Micro_V0.5-Weight_A.stl)
-* [Frame Weight - Part B - V0.5 STL](Termite_Vibratory_Tumbler_Micro_V0.5-Weight_B.stl)
-
-
-
-|       |  |
-| ----------- | ----------- |
-| [Frame Base STL](Termite_Vibratory_Tumbler_Micro_V0.5-Frame_Base.stl)      | ![Base](assets/Termite_Vibratory_Tumbler_Micro_V0.5-Frame_Base.stl.png)       |
-| [Frame Top STL](Termite_Vibratory_Tumbler_Micro_V0.5-Frame_Top.stl)      | ![Base](assets/Termite_Vibratory_Tumbler_Micro_V0.5-Frame_Top.stl.png)       |
-| [Weight Part A STL](Termite_Vibratory_Tumbler_Micro_V0.5-Weight_A.stl)      | ![Base](assets/Termite_Vibratory_Tumbler_Micro_V0.5-Weight_A.stl.png)       |
-| [Weight Part A STL](Termite_Vibratory_Tumbler_Micro_V0.5-Weight_B.stl)      | ![Base](assets/Termite_Vibratory_Tumbler_Micro_V0.5-Weight_B.stl.png)       |
-
-
-
-
 I printed my parts in eSun PLA+, 0.3mm layer height and medium speed for my printer. I recommend to use high setting for your layer height as it should make the parts stronger, at the cost of aesthetics. 
 
-_(I designed this using Fusion 360, but I can't share the project to be edited by others because I'm using the free "hobby" version. Here is a [read-only link to the Fusion design](). Shout if you know how to fix this)_
+_(I designed this using Fusion 360, but I can't share the project to be edited by others because I'm using the free "hobby" version. Here is a [read-only link to the Fusion design](https://a360.co/3a8lYfV). Shout if you know how to fix this)_
+
+| Part      | Thumbnail |
+| ----------- | ----------- |
+| [Frame Base STL](Termite_Vibratory_Tumbler_Micro_V0.5-Frame_Base.stl) <br/> print flat face down, no supports  | ![Base](assets/Termite_Vibratory_Tumbler_Micro_V0.5-Frame_Base.stl.png)       |
+| [Frame Top STL](Termite_Vibratory_Tumbler_Micro_V0.5-Frame_Top.stl)   <br/> print flat face down, no supports   | ![Base](assets/Termite_Vibratory_Tumbler_Micro_V0.5-Frame_Top.stl.png)       |
+| [Weight Part A STL](Termite_Vibratory_Tumbler_Micro_V0.5-Weight_A.stl)   <br/> print flat face down, needs supports at the head   | ![Base](assets/Termite_Vibratory_Tumbler_Micro_V0.5-Weight_A.stl.png)       |
+| [Weight Part A STL](Termite_Vibratory_Tumbler_Micro_V0.5-Weight_B.stl)  <br/> print flat face down, no supports    | ![Base](assets/Termite_Vibratory_Tumbler_Micro_V0.5-Weight_B.stl.png)       |
+
 
 ## Non-printed parts
 
