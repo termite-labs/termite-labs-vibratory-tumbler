@@ -4,7 +4,7 @@ Version Micro 0.5
 
 This is a small vibratory tumbler I put together with my 3D printer and parts I had available at home, but the goal is to create an open source, affortable, easy to print and assemble vibratory tumbler, useful for finsishing and polishing 3D printed parts or other objects.
 
-__I need help improving this design. Go to the [Contributing](#contributing) section to help answer some questions.__
+__This is very much a prototype and I welcome any help to improve the design. Go to the [Contributing](#contributing) section if you are interested.__
 
 Photo, Video, Before/After
 
@@ -43,54 +43,86 @@ _(I designed this using Fusion 360, but I can't share the project to be edited b
 * 1x Motor
 * 4x Springs
 * 1x Container
-* Nx My XXmm Screws with bolts
+* 4 Mx XXmm Screws and 8 Bolts to connect the timbling cup
+* 2 Mx XXmm Screes to connect the motor to the top
 * Nx Washers
 * 2x lengths of wire
-* 1x 12 Power Adapater
+* 1x 12V Power Adapater
 * Rubber Feet
 * Tumbling Media
 
 ### Motor
 
- I used what I had around. There is probably a better choice out there, but this seems to work for now with a small modification (explained below in the instructions). One great thing is that the existing counterweight doubles as a hook to attach our own counterweight.
+ I used what I had around. In future versions I would like to use a more common motor (see [Contributing](#contributing)), but this seems to work for now with a small modification (see [Instructions](#instructions)). One good thing about this is that the existing counterweight doubles as an attachment for our own counterweight. On the bad side, this motor does not have any specs (power required or rotation speed)
 
- The parts are designed specifically around this motor, so unfortunaely you'll have to get exactly this part. I provided links for Amazon US and UK. If you find this part in other countries, or not on Amazon, please let me know and I can add it here.
+ The parts are designed specifically around this motor, so unfortunaely you'll have to get exactly this one. I provided links for Amazon US and UK. If you find this part in other countries, or not on Amazon, please let me know and I will add it here.
 
  * [Amazon UK](https://www.amazon.co.uk/gp/product/B07Y7X3393)
  * [Amazon US](https://www.amazon.com/dp/B07Y7V5QRH)
 
-![](assets/motor.jpg)
+![](assets/motor.thumb.jpg)
 
 ### Springs
 
 The base and top are designed specifically for springs of this size and length. I provided links for Amazon US and UK. If you find this part in other countries, or not on Amazon, please let me know and I can add it here.
 
 * [Amazon UK](https://www.amazon.co.uk/gp/product/B07M6JT46T/)
-* [Amazon US](https://www.amazon.com/uxcell-Diameter-Stainless-Extended-Compressed/dp/B07MHGLW1Q) (Seemps to be out of stock - help me find a substitute)
+* [Amazon US](https://www.amazon.com/uxcell-Diameter-Stainless-Extended-Compressed/dp/B07MHGLW1Q) (Out of stock on Dec 18th, 2020 - help me find a substitute)
 
 
-![Springs](assets/spring.jpg)
+![Springs](assets/spring.thumb.jpg)
 
+### 12V Power Adapter
 
+Any 12v power adapter should work. I bought the cheapest 30W I could find. Again, the motor has no specs so I don't know how much power it's actually using. 
+
+* [Amazon UK](https://www.amazon.co.uk/gp/product/B07WHSB8C5/)
+* [Amazon US](https://www.amazon.com/SoulBay-Universal-Switching-Selectable-Electronics/dp/B01N7RS0NG)
 
 ## Tools
 
-| Soldering Iron |
-| Solder 		 |
-| 3D Printer	 |
-| Pliers		 |
+You'll need a soldering iron and some solder to connect the motor. Any will do. I have a Hakko FX-888D and I love it, but any cheap iron will work too.
 
-Disclosure: the links have have affiliate blah blah and I may earn a small commission if you buy through the link. I intend to use the commission to fund improvements to this project.
+Of course you'll also need a 3D Printer. I have a Monoprice Voxel (which is the same as a FlashForge Adventurer 3). It's an entry level begineer printer, so you should be fine whater you have.
 
-## Assemblying
+* [Soldering Station - Amazon UK](https://www.amazon.co.uk/HAKKO-FX-888D-Soldering-Station-70W/dp/B077B9Q6SJ)
+* [Soldering Station - Amazon US](https://www.amazon.com/s?k=Hakko+FX-888D)
+
+## Instructions
 
 ### 1. Motor
 
 #### 1.2 Removing counterweight
 
+The first thing to do is to remove the counterweight on the front of the motor. The part WITHOUT power connections. You'll need to grab the weight with a pair of pliers and it will come off easily.
+
+![Image 1]()
+![Image 2]()
+
 #### 1.3 Soldering
 
+Now you need to solder two wires to the two connections on the other side. Use two different colors if possible.
+
+The wires need to connect to the power adapter. I have soldered them to a female standard DC plug compatible with one of the adapters provided with the power brick.
+
+This is not very elgant or convenient to manage. If you have any advice, please share!
+
+![Image 1]()
+![Image 2]()
+![Image 3]()
+
+
 #### 1.4 Installing new counterweight
+
+First slide in the Counterweight Part A so that the motoer weight sits snugly in the part head.
+
+![Image 1]()
+
+Then top it with Counterweight Part B and close it with a round of tape.
+
+![Image 2]()
+
+The holes allow to experiment with adding more weight, but I have not tried it yet.
 
 ### 2. Top
 
@@ -117,12 +149,21 @@ Disclosure: the links have have affiliate blah blah and I may earn a small commi
 
 ### Advice
 
-* I need advice on choosing a motor for the next version:
-	* Ideally it's of a standard size that is easy to find around the world
-	* Ideally it's effective at 12V, because 24V power adapters cost much more
-	* Idelaly it costs at most around 20$
+* A future version should have a better motor
+	* Standard size that is easy to find around the world
+	* Effective at 12V, because 24V power adapters cost much more
+	* It has an easy way to attach an eccentric load to the axle
+	* More powerful, but not much perhaps
+	* It costs at most around 20$
+	* It comes with detailed power and speed specs
+	
+* A future version needs a better way to connect power to the motor
+	* A switch would be convenient
+	* A potentiometer would be convenient too
 
-* Redesign using open source tools?
+* I love Fusion 360, but with the free version it's impossible to collaborate on the designs.
+	* Does anyone know how to handle this?
+	* Or shuld we redesign using open source tools, maybe OpenSCAD?
 
 ## Version History
 
