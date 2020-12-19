@@ -20,23 +20,20 @@ Some of the links on this page contain affiliate links. If you buy from that lin
 
 ## Table Of Contents
 
-* [Parts to print](#printing-the-parts)
-* [The other parts](#non-printed-parts)
-* [Assemblying](#assemblying)
+* [Materials](#materials)
+* [Instructions](#instructions)
 * [Using](#using)
 * [Future](#future)
 * [Contributing](#contributing)
 * [Acknowledgements](#acknowledgements)
 
-## Printing the parts
+## Materials
+
+Collect your materials, then head on to the [Instructions](#instrcutions). The only two things that you need to buy specifically as descibed are the springs and the motor. Most other things you can probably make do with what you have around, but I have included links for convenience.
 
 I printed my parts in eSun PLA+, 0.3mm layer height and medium speed for my printer. I recommend to use high setting for your layer height as it should make the parts stronger, at the cost of aesthetics. 
 
 _(I designed this using Fusion 360, but I can't share the project to be edited by others because I'm using the free "hobby" version. Here is a [read-only link to the Fusion design](https://a360.co/3a8lYfV). Shout if you know how to fix this)_
-
-## Materials
-
-Collect your materials, then head on to the [Instructions](#instrcutions). The only two things that you need to buy specifically as descibed are the springs and the motor. Most other things you can probably make do with what you have around, but I have included links for convenience.
 
 | Part | Instructions | Image |
 |------|--------------|-------| 
@@ -59,32 +56,6 @@ Collect your materials, then head on to the [Instructions](#instrcutions). The o
 | Zip Ties | Used to fix the wiring to the motor <br/> [Where to Buy]() | ![Zip Ties](assets/zip_ties.jpg)
 | Tape | Used to fix the wiring to the frame until we come up with a better design. Any tape you have around will work. | ![Tape](assets/tape.jpg)
 | 3D Printer | Of course you also need a 3D Printer. I have a Monoprice Voxel (same as a FlashForge Adventurer 3). It's an entry level printer and it works perfectly. You should be fine whater printer you have. [Where to Buy]() | ![Monoprice Voxel](assets/monoprice_voxel.jpg)
-
-
-### Springs
-
-The base and top are designed specifically for springs of this size and length. I provided links for Amazon US and UK. If you find this part in other countries, or not on Amazon, please let me know and I can add it here.
-
-| | |
-|---|---|
-|![Springs](assets/spring.thumb.jpg) | [Amazon UK](https://www.amazon.co.uk/gp/product/B07M6JT46T/) <br/> [Amazon US](https://www.amazon.com/uxcell-Diameter-Stainless-Extended-Compressed/dp/B07MHGLW1Q) (Out of stock on Dec 18th, 2020 - help me find a substitute)
-
-
-### 12V Power Adapter
-
-Any 12v power adapter should work. I bought the cheapest 30W I could find. Again, the motor has no specs so I don't know how much power it's actually using. 
-
-* [Amazon UK](https://www.amazon.co.uk/gp/product/B07WHSB8C5/)
-* [Amazon US](https://www.amazon.com/SoulBay-Universal-Switching-Selectable-Electronics/dp/B01N7RS0NG)
-
-## Tools
-
-You'll need a soldering iron and some solder to connect the motor. Any will do. I have a Hakko FX-888D and I love it, but any cheap iron will work too.
-
-Of course you'll also need a 3D Printer. I have a Monoprice Voxel (which is the same as a FlashForge Adventurer 3). It's an entry level begineer printer, so you should be fine whater you have.
-
-* [Soldering Station - Amazon UK](https://www.amazon.co.uk/HAKKO-FX-888D-Soldering-Station-70W/dp/B077B9Q6SJ)
-* [Soldering Station - Amazon US](https://www.amazon.com/s?k=Hakko+FX-888D)
 
 ## Instructions
 
