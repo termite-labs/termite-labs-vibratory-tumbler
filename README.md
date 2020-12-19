@@ -53,11 +53,11 @@ Collect your materials, then head on to the [Instructions](#instrcutions)
 | 2 XXm Screws | Used to connect the motor to the frame top |
 | 12V Power Adapter | I bought the ceapest 30W I could find. An adapter you already have may just work. <br/> [Where to Buy]() | 
 | Rubber Feet | |
-| Soldering Iron | |
-| Solder | |
-| Pliers | |
-| Strips | |
-| Tape | |
+| Soldering Iron | Any soldering iron will do. I use an Hakko station and it's great. <br/> [Where to Buy]() | ![Soldering Iron](assets/hakko-solder-station.jpg) |
+| Solder | Any solder should do. |  
+| Pliers | Used to modify the motor. <br/> [Where to Buy]() | ![Pliers](assets/pliers.jpg) |
+| Zip Ties | Used to fix the wiring to the motor <br/> [Where to Buy]() | ![Zip Ties](assets/zip_ties.jpg)
+| Tape | Used to fix the wiring to the frame until we come up with a better design. Any tape will work. |
 
 ### Motor
 
