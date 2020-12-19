@@ -51,9 +51,8 @@ Collect your materials, then head on to the [Instructions](#instrcutions)
 | 1 | Frame Base <br/> [Download STL](Termite_Vibratory_Tumbler_Micro_V0.5-Frame_Top.stl) | ![Base](assets/Termite_Vibratory_Tumbler_Micro_V0.5-Frame_Top.stl.png)
 | 1 | Weight Part A <br/> [Download STL](Termite_Vibratory_Tumbler_Micro_V0.5-Weight_A.stl) | ![Base](assets/Termite_Vibratory_Tumbler_Micro_V0.5-Weight_A.stl.png)
 | 1 | Weight Part B <br/> [Download STL](Termite_Vibratory_Tumbler_Micro_V0.5-Weight_B.stl) | ![Base](assets/Termite_Vibratory_Tumbler_Micro_V0.5-Weight_B.stl.png)
+| 1 | DC Motor <br/> [Where to Buy]() | ![](assets/motor.thumb.jpg)
 
-
-| 1 | DC Motor <br/> [Where to Buy]() | ![](assets/motor.thumb.jpg) |
 | 4 | Springs |
 | 1 | Container |
 | 4 | XXm Screws |
