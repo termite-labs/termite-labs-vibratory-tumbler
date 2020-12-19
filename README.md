@@ -45,15 +45,17 @@ _(I designed this using Fusion 360, but I can't share the project to be edited b
 
 Collect your materials, then head on to the [Instructions](#instrcutions)
 
-| Count | Part | Instructions | Image |
-|-------|------|--------------|-------| 
-| 1 | Frame Base | Print flat face down, no supports <br/> [Download STL](Termite_Vibratory_Tumbler_Micro_V0.5-Frame_Base.stl) | ![Base](assets/Termite_Vibratory_Tumbler_Micro_V0.5-Frame_Base.stl.png)
-| 1 | Frame Base | Print flat face down, no supports <br/> [Download STL](Termite_Vibratory_Tumbler_Micro_V0.5-Frame_Top.stl) | ![Base](assets/Termite_Vibratory_Tumbler_Micro_V0.5-Frame_Top.stl.png)
-| 1 | Weight Part A | Print flat face down, no supports <br/> [Download STL](Termite_Vibratory_Tumbler_Micro_V0.5-Weight_A.stl) | ![Base](assets/Termite_Vibratory_Tumbler_Micro_V0.5-Weight_A.stl.png)
-| 1 | Weight Part B | Print flat face down, no supports <br/> [Download STL](Termite_Vibratory_Tumbler_Micro_V0.5-Weight_B.stl) | ![Base](assets/Termite_Vibratory_Tumbler_Micro_V0.5-Weight_B.stl.png)
-| 1 | DC Motor |   The parts are designed specifically around this motor, so you'll have to get exactly this one. <br/> [Where to Buy]() | ![](assets/motor.thumb.jpg)
+| Part | Instructions | Image |
+|------|--------------|-------| 
+| Frame Base | Print flat face down, no supports <br/> [Download STL](Termite_Vibratory_Tumbler_Micro_V0.5-Frame_Base.stl) | ![Base](assets/Termite_Vibratory_Tumbler_Micro_V0.5-Frame_Base.stl.png)
+| Frame Base | Print flat face down, no supports <br/> [Download STL](Termite_Vibratory_Tumbler_Micro_V0.5-Frame_Top.stl) | ![Base](assets/Termite_Vibratory_Tumbler_Micro_V0.5-Frame_Top.stl.png)
+| Weight Part A | Print flat face down, supports only in the head part <br/> [Download STL](Termite_Vibratory_Tumbler_Micro_V0.5-Weight_A.stl) | ![Base](assets/Termite_Vibratory_Tumbler_Micro_V0.5-Weight_A.stl.png)
+| Weight Part B | Print flat face down, no supports <br/> [Download STL](Termite_Vibratory_Tumbler_Micro_V0.5-Weight_B.stl) | ![Base](assets/Termite_Vibratory_Tumbler_Micro_V0.5-Weight_B.stl.png)
+| DC Motor |  The parts are designed specifically around this motor, so you'll have to get exactly this one. <br/> [Where to Buy]() | ![](assets/motor.thumb.jpg)
+| 4 Springs | The parts are designed specifically for springs of this size and length. <br/> [Where to Buy]() | ![Springs](assets/spring.thumb.jpg)
+| Tumbling Container | I used what I had at home. Any round plastic cup approx 10cm (4") diameter should work. | ![Springs](assets/spring.thumb.jpg)
 
-| 4 | Springs |
+
 | 1 | Container |
 | 4 | XXm Screws |
 | 8 | XXm Bolts | 
