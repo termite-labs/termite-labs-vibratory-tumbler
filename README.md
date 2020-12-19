@@ -14,10 +14,6 @@ Photo, Video, Before/After
 * __Do not assume this is safe just because it's on the Internet__ 
 * __I can't accept any responsibility if you or someone else gets hurt or property is damaged__
 
-
-## Disclosure
-Some of the links on this page contain affiliate links. If you buy from that link, I receive a small percentage which I will spend to fund this and other projects.
-
 ## Table Of Contents
 
 * [Materials](#materials)
@@ -37,17 +33,17 @@ _(I designed this using Fusion 360, but I can't share the project to be edited b
 
 | Part | Instructions | Image |
 |------|--------------|-------| 
-| Frame Base | Print flat face down, no supports <br/> [Download STL](Termite_Vibratory_Tumbler_Micro_V0.5-Frame_Base.stl) | ![Base](assets/Termite_Vibratory_Tumbler_Micro_V0.5-Frame_Base.stl.png)
-| Frame Base | Print flat face down, no supports <br/> [Download STL](Termite_Vibratory_Tumbler_Micro_V0.5-Frame_Top.stl) | ![Base](assets/Termite_Vibratory_Tumbler_Micro_V0.5-Frame_Top.stl.png)
-| Weight Part A | Print flat face down, supports only in the head part <br/> [Download STL](Termite_Vibratory_Tumbler_Micro_V0.5-Weight_A.stl) | ![Base](assets/Termite_Vibratory_Tumbler_Micro_V0.5-Weight_A.stl.png)
-| Weight Part B | Print flat face down, no supports <br/> [Download STL](Termite_Vibratory_Tumbler_Micro_V0.5-Weight_B.stl) | ![Base](assets/Termite_Vibratory_Tumbler_Micro_V0.5-Weight_B.stl.png)
+| Frame Base | Print flat face down, no supports <br/> [Download STL](TVT-Micro-0.5-Frame-Base.stl) | ![Base](assets/TVT-Micro-0.5-Frame-Base.stl.png)
+| Frame Top | Print flat face down, no supports <br/> [Download STL](TVT-Micro-0.5-Frame-Top.stl) | ![Base](assets/TVT-Micro-0.5-Frame-Top.stl.png)
+| Weight Part A | Print flat face down, supports only in the head part <br/> [Download STL](TVT-Micro-0.5-Weight-A.stl) | ![Base](assets/TVT-Micro-0.5-Weight-A.stl.png)
+| Weight Part B | Print flat face down, no supports <br/> [Download STL](TVT-Micro-0.5-Weight-B.stl) | ![Base](assets/Termite_Vibratory_Tumbler_Micro_V0.5-Weight_B.stl.png)
 | DC Motor |  The frame and weight are designed to fit exactly this motor.  <br/> [Where to Buy]() | ![](assets/motor.thumb.jpg)
 | 4 Springs | The is designed to fit exactly the springs dimensions. <br/> [Where to Buy]() | ![Springs](assets/spring.thumb.jpg)
 | Tumbling Container | I used what I had at home. Any round plastic cup approx 10cm (4") diameter should work. If you find a good one, please let me know. | ![Container](assets/container.jpg)
 | Screws and Bolts | <br/> [Where to Buy]() | ![Screws and Bolts](assets/screws.jpg)
 | Washers | I used plastic washers becaude thats what I had around, but any washers will do. [Where to Buy]() | ![Washers](assets/washers.jpg)
-
 | 12V Power Adapter | I bought the ceapest 30W I could find. An adapter you already have may just work. <br/> [Where to Buy]() | ![Power Brick](assets/power_brick.jpg)
+| Tumbling Media | I have improved here as I have no experiance with tumbling. I used 3 different things: lots of tiny screws, crushed walnut shells, and stainless steel pins. There are many more media to try. See more in [Using](#using) | ![Screws]() ![Walnuts]() ![Steel Pins]()
 | Rubber Feet | This is optional at this point as they don't work too well to keep the tumbler for moving around, but they help somewhat. | ![Rubber Feet](assets/rubber_feet.jpg)
 | Soldering Iron | Any soldering iron will do. I use an Hakko station and it'qrfrvfvava great. <br/> [Where to Buy]() | ![Soldering Iron](assets/hakko-solder-station.jpg) |
 | Solder | Any solder should do. <br/> [Where to Buy]() | ![Solder](assets/solder.jpg)  
@@ -116,14 +112,25 @@ The holes allow to experiment with adding more weight, but I have not tried it y
 
 ## Contributing
 
-### Build it
+I would very much like to see thi eveolve over time and become a robust, easy to build and affordable tumbler that anyone can put together without special skills or tools beyond access to a 3D printer.
+
+Any contribution is absolutely welocome, in any form or shape. Below is a list of things that I know are needed, but it's not limited to that.
+
+### Help Needed
 
 * Build it and take pictures of the process and your results
-* Polish parts using different media, time and material combinations to help building a catalog for finishing parts
 
-### Advice
+* Improve the instructions
 
-* A future version should have a better motor
+* Polish parts using different media/time/object combinations to help me build a catalog of techniques for finishing parts
+
+* If you have any thoughts on things that can be improved or should be changed, let me know.
+
+* A future version needs a better way to connect power to the motor
+	* A switch would be convenient
+	* A potentiometer would be convenient too
+
+* A future version needs a better motor
 	* Standard size that is easy to find around the world
 	* Effective at 12V, because 24V power adapters cost much more
 	* It has an easy way to attach an eccentric load to the axle
@@ -131,10 +138,6 @@ The holes allow to experiment with adding more weight, but I have not tried it y
 	* It costs at most around 20$
 	* It comes with detailed power and speed specs
 	
-* A future version needs a better way to connect power to the motor
-	* A switch would be convenient
-	* A potentiometer would be convenient too
-
 * I love Fusion 360, but with the free version it's impossible to collaborate on the designs.
 	* Does anyone know how to handle this?
 	* Or shuld we redesign using open source tools, maybe OpenSCAD?
@@ -175,3 +178,13 @@ Some of the designs I found online:
 * [DIY Vibratory Tumbler - Shop Projects](https://www.youtube.com/watch?v=S2Pq3ZCftGU)
 * [DIY - How to Make Tumbler Machine for Restoration Making with 12 Volts DC Fan](https://www.youtube.com/watch?v=Tck5VvBplBU)
 * [Buratto fai da te CON VENTOLA - Tumbler Machine DIY With FAN, low noise](https://www.youtube.com/watch?v=_1c_5yf9vLY&t=150s)
+
+
+## Where to buy
+
+Some of the links on this page contain affiliate links. The price remains the same for you, but I may receive a small percentage of the sale price, which I will spend to fund this and other projects.
+
+
+| Item |  Amazon Links 
+| ---- | --- 
+| Motor | [USA]() | [U.K.]() | [Italy]() | [France]() | [Spain]() | [Germany]() | [India]() | [Japan]() | 
