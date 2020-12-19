@@ -169,11 +169,11 @@ This is open source. I don't know yet what's the best licence for an open source
 
 ## Where to buy
 
-I'm tyring to make sure the parts that can't be printed are widely available and trying to provide links to them. If your country is not listed, or the part is difficult to find, let me know. Most items are commonly found at your local hardware store.
+I'm tyring to make sure the parts that can't be printed are widely available and trying to provide links to them. If your country is not listed, or the part is difficult to find, let me know.  Most items are commonly found at your local hardware store. _If anyone know a btter way to do this, let me know..._
 
 _Some of the links provided contain affiliate links. The price remains the same for you, but I may receive a small percentage of the sale price, which I will spend to fund this and other projects._
 
-| Item | Amazon Links | | | | | | | |
+| | | | | | | | | |
 |----|---|---|---|---|---|---|---|---| 
 | Motor 	| [USA]() | [U.K.]() | [Italy]() | [France]() | [Spain]() | [Germany]() | [India]() | [Japan]() | 
 | Springs	| [USA]() | [U.K.]() | [Italy]() | [France]() | [Spain]() | [Germany]() | [India]() | [Japan]() | 
