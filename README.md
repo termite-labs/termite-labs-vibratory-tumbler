@@ -44,8 +44,8 @@ Collect your materials, then head on to the [Instructions](#instrcutions)
 | Frame Base | Print flat face down, no supports <br/> [Download STL](Termite_Vibratory_Tumbler_Micro_V0.5-Frame_Top.stl) | ![Base](assets/Termite_Vibratory_Tumbler_Micro_V0.5-Frame_Top.stl.png)
 | Weight Part A | Print flat face down, supports only in the head part <br/> [Download STL](Termite_Vibratory_Tumbler_Micro_V0.5-Weight_A.stl) | ![Base](assets/Termite_Vibratory_Tumbler_Micro_V0.5-Weight_A.stl.png)
 | Weight Part B | Print flat face down, no supports <br/> [Download STL](Termite_Vibratory_Tumbler_Micro_V0.5-Weight_B.stl) | ![Base](assets/Termite_Vibratory_Tumbler_Micro_V0.5-Weight_B.stl.png)
-| DC Motor |  The parts are designed specifically around this motor, so you'll have to get exactly this one. <br/> [Where to Buy]() | ![](assets/motor.thumb.jpg)
-| 4 Springs | The parts are designed specifically for springs of this size and length. <br/> [Where to Buy]() | ![Springs](assets/spring.thumb.jpg)
+| DC Motor |  The frame and weight are designed to fit exactly this motor.  <br/> [Where to Buy]() | ![](assets/motor.thumb.jpg)
+| 4 Springs | The is designed to fit exactly the springs dimensions. <br/> [Where to Buy]() | ![Springs](assets/spring.thumb.jpg)
 | Tumbling Container | I used what I had at home. Any round plastic cup approx 10cm (4") diameter should work. | ![Springs](assets/spring.thumb.jpg)
 | 4 XXm Screws | Used to connect the tumbling container to the frame top |
 | 8 XXm Bolts | Used to connect the tumbling container to the frame top |
@@ -53,7 +53,7 @@ Collect your materials, then head on to the [Instructions](#instrcutions)
 | 2 XXm Screws | Used to connect the motor to the frame top |
 | 12V Power Adapter | I bought the ceapest 30W I could find. An adapter you already have may just work. <br/> [Where to Buy]() | 
 | Rubber Feet | |
-| Soldering Iron | Any soldering iron will do. I use an Hakko station and it's great. <br/> [Where to Buy]() | ![Soldering Iron](assets/hakko-solder-station.jpg) |
+| Soldering Iron | Any soldering iron will do. I use an Hakko station and it'qrfrvfvava great. <br/> [Where to Buy]() | ![Soldering Iron](assets/hakko-solder-station.jpg) |
 | Solder | Any solder should do. |  
 | Pliers | Used to modify the motor. <br/> [Where to Buy]() | ![Pliers](assets/pliers.jpg) |
 | Zip Ties | Used to fix the wiring to the motor <br/> [Where to Buy]() | ![Zip Ties](assets/zip_ties.jpg)
@@ -102,26 +102,24 @@ Of course you'll also need a 3D Printer. I have a Monoprice Voxel (which is the 
 
 The first thing to do is to remove the counterweight on the front of the motor. The part WITHOUT power connections. You'll need to grab the weight with a pair of pliers and it will come off easily.
 
-![Image 1]()
-![Image 2]()
+![](assets/motor_remove_weight.jpeg)
+![](assets/motor_remove_weight_done.jpeg)
 
 #### 1.3 Soldering
 
-_This all part is not very elgant or convenient to manage. If you have any advice, please share!_
+Solder two wires to the two connections on the other side. Use two different colors if possible. Then Tie the wires with a zip tie to keep the wires from moving around.
 
-Now you need to solder two wires to the two connections on the other side. Use two different colors if possible.
+![](assets/motor_solder.jpeg)
 
-Tie the wires with a <Grippy plastic thing> to keep the wires from moving around.
-
-![Image 1]()
-
-The wires need to connect to the power adapter. I have soldered them to a female standard DC plug compatible with one of the adapters provided with the power brick.
+Connect the wires to the power adapter. I have soldered them to a female standard DC plug compatible with one of the adapters provided with the power brick.
 
 The motor has a red dot near the positive connector. Connect it to the positive wire coming from the adapter. In standard plugs this is in the center.
-s
-![Image 2]()
-![Image 3]()
 
+![](assets/power_brick_adapter.jpeg)
+![](assets/connector_plug.jpeg)
+![](assets/connector_complete.jpeg)
+
+_This part is not very elegant. If you have a better solution, please let me know_
 
 #### 1.4 Installing new counterweight
 
