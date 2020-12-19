@@ -47,17 +47,16 @@ Collect your materials, then head on to the [Instructions](#instrcutions)
 | DC Motor |  The frame and weight are designed to fit exactly this motor.  <br/> [Where to Buy]() | ![](assets/motor.thumb.jpg)
 | 4 Springs | The is designed to fit exactly the springs dimensions. <br/> [Where to Buy]() | ![Springs](assets/spring.thumb.jpg)
 | Tumbling Container | I used what I had at home. Any round plastic cup approx 10cm (4") diameter should work. | ![Springs](assets/spring.thumb.jpg)
-| 4 XXm Screws | Used to connect the tumbling container to the frame top |
-| 8 XXm Bolts | Used to connect the tumbling container to the frame top |
-| X XXm Washers | 
-| 2 XXm Screws | Used to connect the motor to the frame top |
-| 12V Power Adapter | I bought the ceapest 30W I could find. An adapter you already have may just work. <br/> [Where to Buy]() | 
-| Rubber Feet | |
+| Screws and Bolts | <br/> [Where to Buy]() | ![Screws and Bolts](assets/screws.jpg)
+| Washers | I used plastic washers becaude thats what I had around, but any washers will do. [Where to Buy]() | ![Washers](assets/washers.jpg)
+
+| 12V Power Adapter | I bought the ceapest 30W I could find. An adapter you already have may just work. <br/> [Where to Buy]() | ![Power Brick](assets/power_brick.jpg)
+| Rubber Feet | This is optional at this point as they don't work too well to keep the tumbler for moving around, but they help somewhat. | ![Rubber Feet](assets/rubber_feet.jpg)
 | Soldering Iron | Any soldering iron will do. I use an Hakko station and it'qrfrvfvava great. <br/> [Where to Buy]() | ![Soldering Iron](assets/hakko-solder-station.jpg) |
-| Solder | Any solder should do. |  
+| Solder | Any solder should do. | ![Solder](assets/solder.jpg)  
 | Pliers | Used to modify the motor. <br/> [Where to Buy]() | ![Pliers](assets/pliers.jpg) |
 | Zip Ties | Used to fix the wiring to the motor <br/> [Where to Buy]() | ![Zip Ties](assets/zip_ties.jpg)
-| Tape | Used to fix the wiring to the frame until we come up with a better design. Any tape will work. |
+| Tape | Used to fix the wiring to the frame until we come up with a better design. Any tape you have around will work. | ![Tape](assets/tape.jpg)
 
 ### Motor
 
