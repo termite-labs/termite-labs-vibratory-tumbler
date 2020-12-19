@@ -45,13 +45,13 @@ _(I designed this using Fusion 360, but I can't share the project to be edited b
 
 Collect your materials, then head on to the [Instructions](#instrcutions)
 
-| Count | Part | Image |
-|-------|------|-------|
-| 1 | Frame Base <br/> [Download STL](Termite_Vibratory_Tumbler_Micro_V0.5-Frame_Base.stl) | ![Base](assets/Termite_Vibratory_Tumbler_Micro_V0.5-Frame_Base.stl.png)
-| 1 | Frame Base <br/> [Download STL](Termite_Vibratory_Tumbler_Micro_V0.5-Frame_Top.stl) | ![Base](assets/Termite_Vibratory_Tumbler_Micro_V0.5-Frame_Top.stl.png)
-| 1 | Weight Part A <br/> [Download STL](Termite_Vibratory_Tumbler_Micro_V0.5-Weight_A.stl) | ![Base](assets/Termite_Vibratory_Tumbler_Micro_V0.5-Weight_A.stl.png)
-| 1 | Weight Part B <br/> [Download STL](Termite_Vibratory_Tumbler_Micro_V0.5-Weight_B.stl) | ![Base](assets/Termite_Vibratory_Tumbler_Micro_V0.5-Weight_B.stl.png)
-| 1 | DC Motor <br/> [Where to Buy]() | ![](assets/motor.thumb.jpg)
+| Count | Part | Instructions | Image |
+|-------|------|--------------|-------| 
+| 1 | Frame Base | Print flat face down, no supports <br/> [Download STL](Termite_Vibratory_Tumbler_Micro_V0.5-Frame_Base.stl) | ![Base](assets/Termite_Vibratory_Tumbler_Micro_V0.5-Frame_Base.stl.png)
+| 1 | Frame Base | Print flat face down, no supports <br/> [Download STL](Termite_Vibratory_Tumbler_Micro_V0.5-Frame_Top.stl) | ![Base](assets/Termite_Vibratory_Tumbler_Micro_V0.5-Frame_Top.stl.png)
+| 1 | Weight Part A | Print flat face down, no supports <br/> [Download STL](Termite_Vibratory_Tumbler_Micro_V0.5-Weight_A.stl) | ![Base](assets/Termite_Vibratory_Tumbler_Micro_V0.5-Weight_A.stl.png)
+| 1 | Weight Part B | Print flat face down, no supports <br/> [Download STL](Termite_Vibratory_Tumbler_Micro_V0.5-Weight_B.stl) | ![Base](assets/Termite_Vibratory_Tumbler_Micro_V0.5-Weight_B.stl.png)
+| 1 | DC Motor |   The parts are designed specifically around this motor, so you'll have to get exactly this one. <br/> [Where to Buy]() | ![](assets/motor.thumb.jpg)
 
 | 4 | Springs |
 | 1 | Container |
@@ -73,7 +73,7 @@ Collect your materials, then head on to the [Instructions](#instrcutions)
 
  I used what I had around. In future versions I would like to use a more common motor (see [Contributing](#contributing)), but this seems to work for now with a small modification (see [Instructions](#instructions)). One good thing about this is that the existing counterweight doubles as an attachment for our own counterweight. On the bad side, this motor does not have any specs (power required or rotation speed)
 
- The parts are designed specifically around this motor, so unfortunaely you'll have to get exactly this one. I provided links for Amazon US and UK. If you find this part in other countries, or not on Amazon, please let me know and I will add it here.
+ The parts are designed specifically around this motor, so you'll have to get exactly this one. I provided links for Amazon US and UK. If you find this part in other countries, or not on Amazon, please let me know and I will add it here.
 
 | | |
 |---|---|
