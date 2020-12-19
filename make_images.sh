@@ -1,7 +1,7 @@
 #!/usr/bin/env sh
 OPENSCAD=/Applications/OpenSCAD.app/Contents/MacOS/OpenSCAD
-parts_height=200
-parts_width=200
+parts_height=250
+parts_width=250
 instructions_width=300
 instructions_height=300
 

@@ -63,22 +63,22 @@ I used what I had around. In future versions I would like to use a more common m
 
 The first thing to do is to remove the counterweight on the front of the motor. The part WITHOUT power connections. You'll need to grab the weight with a pair of pliers and it will come off easily.
 
-![](assets/motor_remove_weight.jpeg)
-![](assets/motor_remove_weight_done.jpeg)
+![](assets/instructions/final.motor_remove_weight.jpeg)
+![](assets/instructions/final.motor_remove_weight_done.jpeg)
 
 #### 1.3 Soldering
 
 Solder two wires to the two connections on the other side. Use two different colors if possible. Then Tie the wires with a zip tie to keep the wires from moving around.
 
-![](assets/motor_solder.jpeg)
+![](assets/instructions/final.motor_solder.jpeg)
 
 Connect the wires to the power adapter. I have soldered them to a female standard DC plug compatible with one of the adapters provided with the power brick.
 
 The motor has a red dot near the positive connector. Connect it to the positive wire coming from the adapter. In standard plugs this is in the center.
 
-![](assets/power_brick_adapter.jpeg)
-![](assets/connector_plug.jpeg)
-![](assets/connector_complete.jpeg)
+![](assets/instructions/final.power_brick_adapter.jpeg)
+![](assets/instructions/final.connector_plug.jpeg)
+![](assets/instructions/final.connector_complete.jpeg)
 
 _This part is not very elegant. If you have a better solution, please let me know_
 
