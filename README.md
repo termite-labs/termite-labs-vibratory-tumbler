@@ -58,6 +58,7 @@ Collect your materials, then head on to the [Instructions](#instrcutions). The o
 | Pliers | Used to modify the motor. <br/> [Where to Buy]() | ![Pliers](assets/pliers.jpg) |
 | Zip Ties | Used to fix the wiring to the motor <br/> [Where to Buy]() | ![Zip Ties](assets/zip_ties.jpg)
 | Tape | Used to fix the wiring to the frame until we come up with a better design. Any tape you have around will work. | ![Tape](assets/tape.jpg)
+| 3D Printer | Of course you also need a 3D Printer. I have a Monoprice Voxel (same as a FlashForge Adventurer 3). It's an entry level printer and it works perfectly. You should be fine whater printer you have. [Where to Buy]() | ![Monoprice Voxel](assets/monoprice_voxel.jpg)
 
 
 ### Springs
