@@ -173,8 +173,8 @@ I'm tyring to make sure the parts that can't be printed are widely available and
 
 _Some of the links provided contain affiliate links. The price remains the same for you, but I may receive a small percentage of the sale price, which I will spend to fund this and other projects._
 
-| Item |  Amazon Links 
-| ---- | --- 
+| Item | Amazon Links | | | | | | | |
+|----|---|---|---|---|---|---|---|---| 
 | Motor 	| [USA]() | [U.K.]() | [Italy]() | [France]() | [Spain]() | [Germany]() | [India]() | [Japan]() | 
 | Springs	| [USA]() | [U.K.]() | [Italy]() | [France]() | [Spain]() | [Germany]() | [India]() | [Japan]() | 
 | Screws and Bolts | [USA]() | [U.K.]() | [Italy]() | [France]() | [Spain]() | [Germany]() | [India]() | [Japan]() | 
