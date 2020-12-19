@@ -34,13 +34,6 @@ I printed my parts in eSun PLA+, 0.3mm layer height and medium speed for my prin
 
 _(I designed this using Fusion 360, but I can't share the project to be edited by others because I'm using the free "hobby" version. Here is a [read-only link to the Fusion design](https://a360.co/3a8lYfV). Shout if you know how to fix this)_
 
-| Part      | Thumbnail |
-| ----------- | ----------- |
-| [Frame Base STL](Termite_Vibratory_Tumbler_Micro_V0.5-Frame_Base.stl) <br/> print flat face down, no supports  | ![Base](assets/Termite_Vibratory_Tumbler_Micro_V0.5-Frame_Base.stl.png)       |
-| [Frame Top STL](Termite_Vibratory_Tumbler_Micro_V0.5-Frame_Top.stl)   <br/> print flat face down, no supports   | ![Base](assets/Termite_Vibratory_Tumbler_Micro_V0.5-Frame_Top.stl.png)       |
-| [Weight Part A STL](Termite_Vibratory_Tumbler_Micro_V0.5-Weight_A.stl)   <br/> print flat face down, needs supports at the head   | ![Base](assets/Termite_Vibratory_Tumbler_Micro_V0.5-Weight_A.stl.png)       |
-| [Weight Part A STL](Termite_Vibratory_Tumbler_Micro_V0.5-Weight_B.stl)  <br/> print flat face down, no supports    | ![Base](assets/Termite_Vibratory_Tumbler_Micro_V0.5-Weight_B.stl.png)       |
-
 ## Materials
 
 Collect your materials, then head on to the [Instructions](#instrcutions)
@@ -54,22 +47,17 @@ Collect your materials, then head on to the [Instructions](#instrcutions)
 | DC Motor |  The parts are designed specifically around this motor, so you'll have to get exactly this one. <br/> [Where to Buy]() | ![](assets/motor.thumb.jpg)
 | 4 Springs | The parts are designed specifically for springs of this size and length. <br/> [Where to Buy]() | ![Springs](assets/spring.thumb.jpg)
 | Tumbling Container | I used what I had at home. Any round plastic cup approx 10cm (4") diameter should work. | ![Springs](assets/spring.thumb.jpg)
-
-
-| 1 | Container |
-| 4 | XXm Screws |
-| 8 | XXm Bolts | 
-| 2 | XXm Screws |
-| X | Washers |
-| 2 | Pieces of wire |
-| 1 | 12V Power Adapter |
-| 4 | Rubber Feer |
-|   | Tumbling Media |
-|   | Soldering Iron |
-|   | Solder |
-|   | Pliers |
-|   | Strips |
-|   | Tape |
+| 4 XXm Screws | Used to connect the tumbling container to the frame top |
+| 8 XXm Bolts | Used to connect the tumbling container to the frame top |
+| X XXm Washers | 
+| 2 XXm Screws | Used to connect the motor to the frame top |
+| 12V Power Adapter | I bought the ceapest 30W I could find. An adapter you already have may just work. <br/> [Where to Buy]() | 
+| Rubber Feet | |
+| Soldering Iron | |
+| Solder | |
+| Pliers | |
+| Strips | |
+| Tape | |
 
 ### Motor
 
