@@ -25,7 +25,7 @@ Photo, Video, Before/After
 
 ## Materials
 
-Collect your materials, then head on to the [Instructions](#instrcutions). The only two things that you need to buy specifically as descibed are the springs and the motor. Most other things you can probably make do with what you have around, but I have included links for convenience.
+Collect your materials, then head on to the [Instructions](#instrcutions). The only two things that you need to buy specifically as descibed are the springs and the motor. Most other things you can probably make do with what you have around, or find them at your local hardware store. I have included links for convenience.
 
 I printed my parts in eSun PLA+, 0.3mm layer height and medium speed for my printer. I recommend to use high setting for your layer height as it should make the parts stronger, at the cost of aesthetics. 
 
@@ -38,10 +38,10 @@ _(I designed this using Fusion 360, but I can't share the project to be edited b
 | Weight Part A | Print flat face down, supports only in the head part <br/> [Download STL](TVT-Micro-0.5-Weight-A.stl) | ![Base](assets/TVT-Micro-0.5-Weight-A.stl.png)
 | Weight Part B | Print flat face down, no supports <br/> [Download STL](TVT-Micro-0.5-Weight-B.stl) | ![Base](assets/Termite_Vibratory_Tumbler_Micro_V0.5-Weight_B.stl.png)
 | DC Motor |  The frame and weight are designed to fit exactly this motor.  <br/> [Where to Buy]() | ![](assets/motor.thumb.jpg)
-| 4 Springs | The is designed to fit exactly the springs dimensions. <br/> [Where to Buy]() | ![Springs](assets/spring.thumb.jpg)
+| Springs | 4 Springs that connect the base to the top. The is designed to fit exactly the springs dimensions. <br/> [Where to Buy]() | ![Springs](assets/spring.thumb.jpg)
 | Tumbling Container | I used what I had at home. Any round plastic cup approx 10cm (4") diameter should work. If you find a good one, please let me know. | ![Container](assets/container.jpg)
 | Screws and Bolts | <br/> [Where to Buy]() | ![Screws and Bolts](assets/screws.jpg)
-| Washers | I used plastic washers becaude thats what I had around, but any washers will do. [Where to Buy]() | ![Washers](assets/washers.jpg)
+| Washers | I used plastic washers because thats what I had around, but any washers will do. _Note: all the vibrations are soosing the screws. If you have split washers try those. [Where to Buy]() | ![Washers](assets/washers.jpg)
 | 12V Power Adapter | I bought the ceapest 30W I could find. An adapter you already have may just work. <br/> [Where to Buy]() | ![Power Brick](assets/power_brick.jpg)
 | Tumbling Media | I have improved here as I have no experiance with tumbling. I used 3 different things: lots of tiny screws, crushed walnut shells, and stainless steel pins. There are many more media to try. See more in [Using](#using) | ![Screws]() ![Walnuts]() ![Steel Pins]()
 | Rubber Feet | This is optional at this point as they don't work too well to keep the tumbler for moving around, but they help somewhat. | ![Rubber Feet](assets/rubber_feet.jpg)
@@ -165,7 +165,34 @@ V0.5
 
 ## License
 
-This is open
+This is open source. I don't know yet what's the best licence for an open source hardware project.
+
+## Where to buy
+
+I'm tyring to make sure the parts that can't be printed are widely available and trying to provide links to them. If your country is not listed, or the part is difficult to find, let me know. Most items are commonly found at your local hardware store.
+
+_Some of the links provided contain affiliate links. The price remains the same for you, but I may receive a small percentage of the sale price, which I will spend to fund this and other projects._
+
+| Item |  Amazon Links 
+| ---- | --- 
+| Motor 	| [USA]() | [U.K.]() | [Italy]() | [France]() | [Spain]() | [Germany]() | [India]() | [Japan]() | 
+| Springs	| [USA]() | [U.K.]() | [Italy]() | [France]() | [Spain]() | [Germany]() | [India]() | [Japan]() | 
+| Screws and Bolts | [USA]() | [U.K.]() | [Italy]() | [France]() | [Spain]() | [Germany]() | [India]() | [Japan]() | 
+| Washers | [USA]() | [U.K.]() | [Italy]() | [France]() | [Spain]() | [Germany]() | [India]() | [Japan]() | 
+| 12V Power Adapter | [USA]() | [U.K.]() | [Italy]() | [France]() | [Spain]() | [Germany]() | [India]() | [Japan]() | 
+| Tumbling Media - Screws | [USA]() | [U.K.]() | [Italy]() | [France]() | [Spain]() | [Germany]() | [India]() | [Japan]() | 
+| Tumbling Media - Walnut Shells | [USA]() | [U.K.]() | [Italy]() | [France]() | [Spain]() | [Germany]() | [India]() | [Japan]() | 
+| Tumbling Media - Steel Pins | [USA]() | [U.K.]() | [Italy]() | [France]() | [Spain]() | [Germany]() | [India]() | [Japan]() | 
+| Rubber Feet | [USA]() | [U.K.]() | [Italy]() | [France]() | [Spain]() | [Germany]() | [India]() | [Japan]() | 
+| Soldering Iron - Hakko FX-888D | [USA]() | [U.K.]() | [Italy]() | [France]() | [Spain]() | [Germany]() | [India]() | [Japan]() | 
+| Solder | [USA]() | [U.K.]() | [Italy]() | [France]() | [Spain]() | [Germany]() | [India]() | [Japan]() | 
+| Wire | [USA]() | [U.K.]() | [Italy]() | [France]() | [Spain]() | [Germany]() | [India]() | [Japan]() | 
+| Zip Ties | [USA]() | [U.K.]() | [Italy]() | [France]() | [Spain]() | [Germany]() | [India]() | [Japan]() | 
+| Pliers | [USA]() | [U.K.]() | [Italy]() | [France]() | [Spain]() | [Germany]() | [India]() | [Japan]() | 
+| Tape | [USA]() | [U.K.]() | [Italy]() | [France]() | [Spain]() | [Germany]() | [India]() | [Japan]() | 
+| 3D Printer  - Monoprice Voxel | [USA]() | [U.K.]() | [Italy]() | [France]() | [Spain]() | [Germany]() | [India]() | [Japan]() | 
+| 3D Printer  - Flashforge Adventurer 3 | [USA]() | [U.K.]() | [Italy]() | [France]() | [Spain]() | [Germany]() | [India]() | [Japan]() | 
+
 
 ## Acknowledgments
 
@@ -178,13 +205,3 @@ Some of the designs I found online:
 * [DIY Vibratory Tumbler - Shop Projects](https://www.youtube.com/watch?v=S2Pq3ZCftGU)
 * [DIY - How to Make Tumbler Machine for Restoration Making with 12 Volts DC Fan](https://www.youtube.com/watch?v=Tck5VvBplBU)
 * [Buratto fai da te CON VENTOLA - Tumbler Machine DIY With FAN, low noise](https://www.youtube.com/watch?v=_1c_5yf9vLY&t=150s)
-
-
-## Where to buy
-
-Some of the links on this page contain affiliate links. The price remains the same for you, but I may receive a small percentage of the sale price, which I will spend to fund this and other projects.
-
-
-| Item |  Amazon Links 
-| ---- | --- 
-| Motor | [USA]() | [U.K.]() | [Italy]() | [France]() | [Spain]() | [Germany]() | [India]() | [Japan]() | 
