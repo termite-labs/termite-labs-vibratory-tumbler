@@ -1,9 +1,9 @@
 #!/usr/bin/env sh
 OPENSCAD=/Applications/OpenSCAD.app/Contents/MacOS/OpenSCAD
-parts_height=250
-parts_width=250
-instructions_width=300
-instructions_height=300
+parts_height=300
+parts_width=300
+instructions_width=350
+instructions_height=350
 
 # Generate STL thumbnails
 for i in *.stl; do
