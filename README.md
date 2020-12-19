@@ -36,7 +36,7 @@ _(I designed this using Fusion 360, but I can't share the project to be edited b
 
 ## Materials
 
-Collect your materials, then head on to the [Instructions](#instrcutions)
+Collect your materials, then head on to the [Instructions](#instrcutions). The only two things that you need to buy specifically as descibed are the springs and the motor. Most other things you can probably make do with what you have around, but I have included links for convenience.
 
 | Part | Instructions | Image |
 |------|--------------|-------| 
@@ -46,27 +46,19 @@ Collect your materials, then head on to the [Instructions](#instrcutions)
 | Weight Part B | Print flat face down, no supports <br/> [Download STL](Termite_Vibratory_Tumbler_Micro_V0.5-Weight_B.stl) | ![Base](assets/Termite_Vibratory_Tumbler_Micro_V0.5-Weight_B.stl.png)
 | DC Motor |  The frame and weight are designed to fit exactly this motor.  <br/> [Where to Buy]() | ![](assets/motor.thumb.jpg)
 | 4 Springs | The is designed to fit exactly the springs dimensions. <br/> [Where to Buy]() | ![Springs](assets/spring.thumb.jpg)
-| Tumbling Container | I used what I had at home. Any round plastic cup approx 10cm (4") diameter should work. | ![Springs](assets/spring.thumb.jpg)
+| Tumbling Container | I used what I had at home. Any round plastic cup approx 10cm (4") diameter should work. If you find a good one, please let me know. | ![Container](assets/container.jpg)
 | Screws and Bolts | <br/> [Where to Buy]() | ![Screws and Bolts](assets/screws.jpg)
 | Washers | I used plastic washers becaude thats what I had around, but any washers will do. [Where to Buy]() | ![Washers](assets/washers.jpg)
 
 | 12V Power Adapter | I bought the ceapest 30W I could find. An adapter you already have may just work. <br/> [Where to Buy]() | ![Power Brick](assets/power_brick.jpg)
 | Rubber Feet | This is optional at this point as they don't work too well to keep the tumbler for moving around, but they help somewhat. | ![Rubber Feet](assets/rubber_feet.jpg)
 | Soldering Iron | Any soldering iron will do. I use an Hakko station and it'qrfrvfvava great. <br/> [Where to Buy]() | ![Soldering Iron](assets/hakko-solder-station.jpg) |
-| Solder | Any solder should do. | ![Solder](assets/solder.jpg)  
+| Solder | Any solder should do. <br/> [Where to Buy]() | ![Solder](assets/solder.jpg)  
+| Wire | To connect power to the motor.  <br/> [Where to Buy]() |
 | Pliers | Used to modify the motor. <br/> [Where to Buy]() | ![Pliers](assets/pliers.jpg) |
 | Zip Ties | Used to fix the wiring to the motor <br/> [Where to Buy]() | ![Zip Ties](assets/zip_ties.jpg)
 | Tape | Used to fix the wiring to the frame until we come up with a better design. Any tape you have around will work. | ![Tape](assets/tape.jpg)
 
-### Motor
-
- I used what I had around. In future versions I would like to use a more common motor (see [Contributing](#contributing)), but this seems to work for now with a small modification (see [Instructions](#instructions)). One good thing about this is that the existing counterweight doubles as an attachment for our own counterweight. On the bad side, this motor does not have any specs (power required or rotation speed)
-
- The parts are designed specifically around this motor, so you'll have to get exactly this one. I provided links for Amazon US and UK. If you find this part in other countries, or not on Amazon, please let me know and I will add it here.
-
-| | |
-|---|---|
-|![](assets/motor.thumb.jpg) | [Amazon UK](https://amzn.to/2KFJTbL) <br/> [Amazon US](https://www.amazon.com/dp/B07Y7V5QRH) 
 
 ### Springs
 
@@ -96,6 +88,8 @@ Of course you'll also need a 3D Printer. I have a Monoprice Voxel (which is the 
 ## Instructions
 
 ### 1. Motor
+
+I used what I had around. In future versions I would like to use a more common motor (see [Contributing](#contributing)), but this seems to work for now with a small modification). The existing counterweight doubles as an attachment for our own counterweight. On the bad side, this motor does not come with any specs (power required or rotation speed).
 
 #### 1.2 Removing counterweight
 
@@ -150,10 +144,10 @@ The holes allow to experiment with adding more weight, but I have not tried it y
 
 ## Contributing
 
-### Try it out
+### Build it
 
-* Make it and send feedback and pics
-* Polish parts using different media, time and material combinations to build a catalog of ways of smoothing
+* Build it and take pictures of the process and your results
+* Polish parts using different media, time and material combinations to help building a catalog for finishing parts
 
 ### Advice
 
@@ -196,6 +190,16 @@ V0.5
 
 ## License
 
-## Thanks and Inspiration
+This is open
 
-Links to similar designs online
+## Acknowledgments
+
+I did not invent this. I took inspiration from videos I found on youtube. I made this because I don't have a workshop or tools to make this in wood, but I do have a 3D Printer, so there you go.
+
+Some of the designs I found online:
+
+* [How To make a Vibratory Tumbler Machine](https://www.youtube.com/watch?v=lXknqxaYgPY&t=185s)
+* [DIY Tumbler Machine for Polishing Metal](https://www.youtube.com/watch?v=L3E-t8hNbGo)
+* [DIY Vibratory Tumbler - Shop Projects](https://www.youtube.com/watch?v=S2Pq3ZCftGU)
+* [DIY - How to Make Tumbler Machine for Restoration Making with 12 Volts DC Fan](https://www.youtube.com/watch?v=Tck5VvBplBU)
+* [Buratto fai da te CON VENTOLA - Tumbler Machine DIY With FAN, low noise](https://www.youtube.com/watch?v=_1c_5yf9vLY&t=150s)
