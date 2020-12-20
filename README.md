@@ -10,8 +10,9 @@ This is a prototype and I welcome any help to improve the design. See [Contribut
 
 Photo, Video, Before/After
 
+![Tumbling Walnut Shells](assets/demo/tumbling_walnut_shells.gif)
 ![Before](assets/demo/final.dragon-before.jpeg "Before")
-![Before](assets/demo/final.dragon-after.jpeg "After")
+![After](assets/demo/final.dragon-after.jpeg "After")
 
 ## Safety Warning
 * This projects features a __rapidly spinning electric motor__ with an eccenric load
