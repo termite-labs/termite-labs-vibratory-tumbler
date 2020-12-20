@@ -18,7 +18,7 @@ Photo, Video, Before/After
 
 * [Materials](#materials)
 * [Instructions](#instructions)
-* [Using](#using)
+* [Tumbling](#tumbling)
 * [Future](#future)
 * [Contributing](#contributing)
 * [Acknowledgements](#acknowledgements)
@@ -108,7 +108,14 @@ The holes allow to experiment with adding more weight, but I have not tried it y
 
 #### 3.2 Connecting the top
 
-## Running
+## Tumbling
+
+If all worked well, you should be ready to tumble your first part. 
+
+1. Pour the tumbling media in the cup and close
+2. Start it. If the rubber feet don't prevent it to move around, tryin placing something underneath like a heavy cloth or nest it between two heavy objects like two large books. I'm trying to figure out a better solution.
+3. Let it go, it's going to take a while, perhaps hours to make a difference, depending on the part and the media.
+4. For 3D printed parts, I'm first tumbling with screws, then steel needles and finish it off with walnut shells. I'll post before/after pictures.
 
 ## Contributing
 
