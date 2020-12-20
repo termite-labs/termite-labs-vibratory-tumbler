@@ -2,16 +2,20 @@
 
 Version Micro 0.5
 
-This is a small vibratory tumbler I put together with my 3D printer and parts I had available at home, but the goal is to create an open source, affortable, easy to print and assemble vibratory tumbler, useful for finsishing and polishing 3D printed parts or other objects.
+This is a small vibratory tumbler I put together with my 3D printer and parts I had available at home, but the goal is to create an open source, affortable, easy to print and assemble vibratory tumbler to be used for finsishing and polishing 3D printed parts or other objects.
 
 This is a prototype and I welcome any help to improve the design. See [Contributing](#contributing) to know more.
 
+
+
 Photo, Video, Before/After
+
+![Before](assets/demo/final.dragon-before.jpeg "Before")
+![Before](assets/demo/final.dragon-after.jpeg "After")
 
 ## Safety Warning
 * This projects features a __rapidly spinning electric motor__ with an eccenric load
-* __This can be dangerous, please be careful__ 
-* __Do not assume this is safe just because it's on the Internet__ 
+* __This is dangerous, please be careful__ 
 * __I can't accept any responsibility if you or someone else gets hurt or property is damaged__
 
 ## Table Of Contents
@@ -25,7 +29,7 @@ Photo, Video, Before/After
 
 ## Materials
 
-Collect your materials, then head on to the [Instructions](#instrcutions). The only two things that you need to buy specifically as descibed are the springs and the motor. Most other things you can probably make do with what you have around, or find them at your local hardware store. I have included links for convenience.
+Collect your materials, then head on to the [Instructions](#instructions). The only two things that you need to buy specifically as descibed are the springs and the motor. Most other things you can probably make do with what you have around, or find them at your local hardware store. I have included [links](#where_to_buy) to buy online for convenience.
 
 I printed my parts in eSun PLA+, 0.3mm layer height and medium speed for my printer. I recommend to use high setting for your layer height as it should make the parts stronger, at the cost of aesthetics. 
 
@@ -47,7 +51,7 @@ _(I designed this using Fusion 360, but I can't share the project to be edited b
 | Rubber Feet | This is optional at this point as they don't work too well to keep the tumbler for moving around, but they help somewhat. | ![Rubber Feet](assets/parts/final.rubber_feet.jpg)
 | Soldering Iron | Any soldering iron will do. I use an Hakko station and it'qrfrvfvava great. <br/> [Where to Buy]() | ![Soldering Iron](assets/parts/final.hakko-solder-station.jpg) |
 | Solder | Any solder should do. <br/> [Where to Buy]() | ![Solder](assets/parts/final.solder.jpg)  
-| Wire | To connect power to the motor.  <br/> [Where to Buy]() |
+| Hook Up Wire | To connect power to the motor.  <br/> [Where to Buy]() |
 | Pliers | Used to modify the motor. <br/> [Where to Buy]() | ![Pliers](assets/parts/final.pliers.jpg) |
 | Zip Ties | Used to fix the wiring to the motor <br/> [Where to Buy]() | ![Zip Ties](assets/parts/final.zip_ties.jpg)
 | Tape | Used to fix the wiring to the frame until we come up with a better design. Any tape you have around will work. | ![Tape](assets/parts/final.tape.jpg)
@@ -55,28 +59,27 @@ _(I designed this using Fusion 360, but I can't share the project to be edited b
 
 ## Instructions
 
-||||
-|---|---|---|
-| 1 | __Remove Motor Counterweight__ <br/> The first thing to do is to remove the counterweight on the front of the motor. The part __WITHOUT__ power connections. Grab the weight with a pair of pliers, twist left and right and it will come off easily. | ![](assets/instructions/final.motor_remove_weight.jpeg) ![](assets/instructions/final.motor_remove_weight_done.jpeg)	
+#### 1 Remove Motor Counterweight
 
-### 1. Motor
-
-
-
-#### 1.2 Removing counterweight
-
-The first thing to do is to remove the counterweight on the front of the motor. The part WITHOUT power connections. You'll need to grab the weight with a pair of pliers and it will come off easily.
+* The first thing to do is to remove the counterweight on the front of the motor. The part __WITHOUT__ power connections. 
+* Turn the motor and find the end that does __NOT__ have power connectors
+* Grab the weight with a pair of pliers, gently twist it left and right until it comes off.
 
 ![](assets/instructions/final.motor_remove_weight.jpeg)
 ![](assets/instructions/final.motor_remove_weight_done.jpeg)
 
-#### 1.3 Soldering
+#### 2 Solder Motor Wires
 
-Solder two wires to the two connections on the other side. Use two different colors if possible. Then Tie the wires with a zip tie to keep the wires from moving around.
+* Turn the motor to the side with connectors.
+* Notice how one of the connectors has red dot next to it. This useful later.
+* Solder a length of wire to each of the connectors.
+* Tie the wires to the motor with a tip tie. Keep the tie close to the connectors like in the image.
 
 ![](assets/instructions/final.motor_solder.jpeg)
 
-Connect the wires to the power adapter. I have soldered them to a female standard DC plug compatible with one of the adapters provided with the power brick.
+#### 3 Connect to the power adapter
+
+* Now connect the wires to the power adapter. I have soldered them to a female standard DC plug compatible with one of the adapters provided with the power brick.
 
 The motor has a red dot near the positive connector. Connect it to the positive wire coming from the adapter. In standard plugs this is in the center.
 
@@ -184,10 +187,12 @@ I'm tyring to make sure the parts that can't be printed are widely available and
 
 _Some of the links provided contain affiliate links. The price remains the same for you, but I may receive a small percentage of the sale price, which I will spend to fund this and other projects._
 
+For the motor and springs, pay attentions to the links tagged with __*__: the product looks like the the one I used, but I could not confirm it's excatly the same. __I rely on your feedback to make sure they work working.__
+
 | | | | | | | | | |
 |----|---|---|---|---|---|---|---|---| 
-| Motor 	| [USA]() | [U.K.]() | [Italy]() | [France]() | [Spain]() | [Germany]() | [India]() | [Japan]() | 
-| Springs	| [USA]() | [U.K.]() | [Italy]() | [France]() | [Spain]() | [Germany]() | [India]() | [Japan]() | 
+| Motor 	| *[USA]() | [U.K.]() | *[Italy]() | *[France]() | *[Spain]() | *[Germany]() | *[India]() | *[Japan]() | 
+| Springs	| *[USA]() | [U.K.]() | *[Italy]() | *[France]() | *[Spain]() | *[Germany]() | *[India]() | *[Japan]() | 
 | Screws and Bolts | [USA]() | [U.K.]() | [Italy]() | [France]() | [Spain]() | [Germany]() | [India]() | [Japan]() | 
 | Washers | [USA]() | [U.K.]() | [Italy]() | [France]() | [Spain]() | [Germany]() | [India]() | [Japan]() | 
 | 12V Power Adapter | [USA]() | [U.K.]() | [Italy]() | [France]() | [Spain]() | [Germany]() | [India]() | [Japan]() | 
@@ -203,6 +208,8 @@ _Some of the links provided contain affiliate links. The price remains the same 
 | Tape | [USA]() | [U.K.]() | [Italy]() | [France]() | [Spain]() | [Germany]() | [India]() | [Japan]() | 
 | 3D Printer  - Monoprice Voxel | [USA]() | [U.K.]() | [Italy]() | [France]() | [Spain]() | [Germany]() | [India]() | [Japan]() | 
 | 3D Printer  - Flashforge Adventurer 3 | [USA]() | [U.K.]() | [Italy]() | [France]() | [Spain]() | [Germany]() | [India]() | [Japan]() | 
+| eSUN PLA+ Filament | [USA]() | [U.K.]() | [Italy]() | [France]() | [Spain]() | [Germany]() | [India]() | [Japan]() | 
+
 
 
 ## Acknowledgments

@@ -4,6 +4,8 @@ parts_height=300
 parts_width=300
 instructions_width=350
 instructions_height=350
+demo_height=400
+demo_width=400
 
 # Generate STL thumbnails
 for i in *.stl; do
@@ -27,3 +29,4 @@ function resize {
 
 resize "assets/parts" $parts_width $parts_height
 resize "assets/instructions" $instructions_width $instructions_height
+resize "assets/demo" $instructions_width $instructions_height
