@@ -37,7 +37,7 @@ _(I designed this using Fusion 360, but I can't share the project to be edited b
 | Frame Top | Print flat face down, no supports <br/> [Download STL](TVT-Micro-0.5-Frame-Top.stl) | ![Base](assets/models/TVT-Micro-0.5-Frame-Top.stl.png)
 | Weight Part A | Print flat face down, supports only in the head part <br/> [Download STL](TVT-Micro-0.5-Weight-A.stl) | ![Base](assets/models/TVT-Micro-0.5-Weight-A.stl.png)
 | Weight Part B | Print flat face down, no supports <br/> [Download STL](TVT-Micro-0.5-Weight-B.stl) | ![Base](assets/models/TVT-Micro-0.5-Weight-B.stl.png)
-| DC Motor |  The frame and weight are designed to fit exactly this motor.  <br/>I used what I had around. In future versions I would like to use a more common motor (see [Contributing](#contributing)), but this seems to work for now with a small modification). The existing counterweight doubles as an attachment for our own counterweight. On the bad side, this motor does not come with any specs (power required or rotation speed).<br/> [Where to Buy]() | ![](assets/parts/final.motor.thumb.jpg)
+| DC Motor |  The frame and weight are designed to fit exactly this motor.  <br/>I used what I had around. In future versions I would like to use a more common motor (see [Contributing](#contributing)), but this seems to work for now with a small modification (see [Instructions](#instructions)). The existing counterweight doubles as an attachment for our own counterweight. On the bad side, this motor does not come with any specs (power required or rotation speed).<br/> [Where to Buy]() | ![](assets/parts/final.motor.thumb.jpg)
 | Springs | 4 Springs that connect the base to the top. The is designed to fit exactly the springs dimensions. <br/> [Where to Buy]() | ![Springs](assets/parts/final.spring.thumb.jpg)
 | Tumbling Container | I used what I had at home. Any round plastic cup approx 10cm (4") diameter should work. If you find a good one, please let me know. | ![Container](assets/parts/final.container.jpg)
 | Screws and Bolts | <br/> [Where to Buy]() | ![Screws and Bolts](assets/parts/final.screws.jpg)
@@ -57,7 +57,7 @@ _(I designed this using Fusion 360, but I can't share the project to be edited b
 
 ||||
 |---|---|---|
-| 1 | Remove Motor Counterweight | 
+| 1 | __Remove Motor Counterweight__ <br/> The first thing to do is to remove the counterweight on the front of the motor. The part __WITHOUT__ power connections. Grab the weight with a pair of pliers, twist left and right and it will come off easily. | ![](assets/instructions/final.motor_remove_weight.jpeg) ![](assets/instructions/final.motor_remove_weight_done.jpeg)	
 
 ### 1. Motor
 
