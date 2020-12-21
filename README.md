@@ -11,6 +11,7 @@ This is a prototype and I welcome any help to improve the design. See [Contribut
 Photo, Video, Before/After
 
 ![Tumbling Walnut Shells](assets/demo/tumbling_walnut_shells.gif)
+
 ![Before](assets/demo/final.dragon-before.jpeg "Before")
 ![After](assets/demo/final.dragon-after.jpeg "After")
 
@@ -192,7 +193,7 @@ For the motor and springs, pay attentions to the links tagged with __*__: the pr
 
 | | | | | | | | | |
 |----|---|---|---|---|---|---|---|---| 
-| Motor 	| *[USA]() | [U.K.]() | *[Italy]() | *[France]() | *[Spain]() | *[Germany]() | *[India]() | *[Japan]() | 
+| Motor 	| *[USA](https://amzn.to/3anLfTA) | [U.K.](https://amzn.to/3mzgGN5) | *[Italy](https://amzn.to/2LUwXzE) | *[France](https://amzn.to/3p37aU2) | *[Spain](https://amzn.to/38oDMRC) | *[Germany](https://amzn.to/38jFcg1) | India(N/A) | *[Japan](https://www.amazon.co.jp/-/en/Vibration-Electric-Oscillating-Powerful-Excenters/dp/B07Y67FJR2/ref=sr_1_4?dchild=1&keywords=Vibration+Motor+DC+12V&qid=1608531665&sr=8-4) | 
 | Springs	| *[USA]() | [U.K.]() | *[Italy]() | *[France]() | *[Spain]() | *[Germany]() | *[India]() | *[Japan]() | 
 | Screws and Bolts | [USA]() | [U.K.]() | [Italy]() | [France]() | [Spain]() | [Germany]() | [India]() | [Japan]() | 
 | Washers | [USA]() | [U.K.]() | [Italy]() | [France]() | [Spain]() | [Germany]() | [India]() | [Japan]() | 
