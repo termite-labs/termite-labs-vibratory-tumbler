@@ -43,7 +43,7 @@ _(I designed this using Fusion 360, but I can't share the project to be edited b
 | Frame Top | Print flat face down, no supports <br/> [Download STL](TVT-Micro-0.5-Frame-Top.stl) | ![Base](assets/models/TVT-Micro-0.5-Frame-Top.stl.png)
 | Weight Part A | Print flat face down, supports only in the head part <br/> [Download STL](TVT-Micro-0.5-Weight-A.stl) | ![Base](assets/models/TVT-Micro-0.5-Weight-A.stl.png)
 | Weight Part B | Print flat face down, no supports <br/> [Download STL](TVT-Micro-0.5-Weight-B.stl) | ![Base](assets/models/TVT-Micro-0.5-Weight-B.stl.png)
-| DC Motor |  The frame and weight are designed to fit exactly this motor.  <br/>I used what I had around. In future versions I would like to use a more common motor (see [Contributing](#contributing)), but this seems to work for now with a small modification (see [Instructions](#instructions)). The existing counterweight doubles as an attachment for our own counterweight. On the bad side, this motor does not come with any specs (power required or rotation speed).<br/> [Where to Buy]() | ![](assets/parts/final.motor.thumb.jpg)
+| DC Motor |  The frame and weight are designed to fit exactly this motor.  <br/>This works, but in future versions I would like to use a more common motor (see [Contributing](#contributing). The existing counterweight doubles as an attachment for our own counterweight. On the bad side, this motor does not come with any specs (power required or rotation speed).<br/> [Where to Buy]() | ![](assets/parts/final.motor.thumb.jpg)
 | Springs | 4 Springs that connect the base to the top. The is designed to fit exactly the springs dimensions. <br/> [Where to Buy]() | ![Springs](assets/parts/final.spring.thumb.jpg)
 | Tumbling Container | I used what I had at home. Any round plastic cup approx 10cm (4") diameter should work. If you find a good one, please let me know. | ![Container](assets/parts/final.container.jpg)
 | Screws and Bolts | <br/> [Where to Buy]() | ![Screws and Bolts](assets/parts/final.screws.jpg)
@@ -51,7 +51,7 @@ _(I designed this using Fusion 360, but I can't share the project to be edited b
 | 12V Power Adapter | I bought the ceapest 30W I could find. An adapter you already have may just work. <br/> [Where to Buy]() | ![Power Brick](assets/parts/final.power_brick.jpg)
 | Tumbling Media | I have improved here as I have no experiance with tumbling. I used 3 different things: lots of tiny screws, crushed walnut shells, and stainless steel pins. There are many more media to try. See more in [Using](#using) | ![Screws]() ![Walnuts]() ![Steel Pins]()
 | Rubber Feet | This is optional at this point as they don't work too well to keep the tumbler for moving around, but they help somewhat. | ![Rubber Feet](assets/parts/final.rubber_feet.jpg)
-| Soldering Iron | Any soldering iron will do. I use an Hakko station and it'qrfrvfvava great. <br/> [Where to Buy]() | ![Soldering Iron](assets/parts/final.hakko-solder-station.jpg) |
+| Soldering Iron | Used to solder wires to the motor. It's a small job and any soldering iron will do. If you are lloking for a great soldiering iron, I use an Hakko station and it's just great. I hope future versions won't need any soldering to make it more accessible.<br/> [Where to Buy]() | ![Soldering Iron](assets/parts/final.hakko-solder-station.jpg) |
 | Solder | Any solder should do. <br/> [Where to Buy]() | ![Solder](assets/parts/final.solder.jpg)  
 | Hook Up Wire | To connect power to the motor.  <br/> [Where to Buy]() |
 | Pliers | Used to modify the motor. <br/> [Where to Buy]() | ![Pliers](assets/parts/final.pliers.jpg) |
@@ -63,43 +63,30 @@ _(I designed this using Fusion 360, but I can't share the project to be edited b
 
 #### 1 Remove Motor Counterweight
 
-Needed: Motor, Pliers
+* The first thing to do is to remove the counterweight on the front of the motor. The part __WITHOUT__ power connections. 
+* Turn the motor and find the end that does __NOT__ have power connectors
+* Grab the weight with a pair of pliers, gently twist it left and right until it comes off.
 
-1. Identify the end of the motor hthat does __NOT__ have power connectors
-2. Grab the weight with a pair of pliers, gently twist it left and right until it comes off.
-
-![](assets/instructions/final.motor_remove_weight_wrong_side.jpeg)
-![](assets/instructions/final.motor_remove_weight_right_side.jpeg)
 ![](assets/instructions/final.motor_remove_weight.jpeg)
 ![](assets/instructions/final.motor_remove_weight_done.jpeg)
 
-#### 2 Wire the motor
+#### 2 Solder Motor Wires
 
-Neede: Motor, Hook up wire, Soldering Iron, Solder, Zip Tie
+* Turn the motor to the side with connectors.
+* Notice how one of the connectors has red dot next to it. This useful later.
+* Solder a length of wire to each of the connectors.
+* Tie the wires to the motor with a tip tie. Keep the tie close to the connectors like in the image.
 
-1. Cut two lengths of hook-up wire (~20cm/8") of different colors, red and black if possible.
-2. Strip the ends
-3. Solder the red wire to the + connector (marked with the red dot)
-4. Solder the black wire to the - connector
-5. Tie the wires to the motor with a zip tie. Keep the tie close to the connectors like in the image. 
-
-![Stripped Wires](assets/instructions/final.motor_solder_wires.jpeg)
-![Red Wire Soldered](assets/instructions/final.motor_solder_red.jpeg)
-![Black Wire Soldered](assets/instructions/final.motor_solder_black.jpeg)
-![Wires Zip Tied](assets/instructions/final.motor_solder_tie.jpeg)
+![](assets/instructions/final.motor_solder.jpeg)
 
 #### 3 Connect to the power adapter
 
-Needed: Motor, Female DC Connector, DC Adapter
+* Now connect the wires to the power adapter. I have soldered them to a female standard DC plug compatible with one of the adapters provided with the power brick.
 
-1. Connect the wires to the power Female DC Connector. Make sure the + wire connects to the + sign on the connector
-2. If your DC adapter has universal connectors, find the one that fits the connector you just wired, and you are done.
-3. If your connector does not have an adapter, strip the ends and connect them to a Male DC Connector. 
+The motor has a red dot near the positive connector. Connect it to the positive wire coming from the adapter. In standard plugs this is in the center.
 
-![Female Connector](assets/instructions/final.connector_female.jpeg)
-![Connector Plus](assets/instructions/final.connector_plus.jpeg)
-![Connector Wired](assets/instructions/final.connector_wired.jpeg)
-![Power Brick Adapter](assets/instructions/final.power_brick_adapter.jpeg)
+![](assets/instructions/final.power_brick_adapter.jpeg)
+![](assets/instructions/final.connector_plug.jpeg)
 ![](assets/instructions/final.connector_complete.jpeg)
 
 _This part is not very elegant. If you have a better solution, please let me know_
@@ -143,41 +130,39 @@ If all worked well, you should be ready to tumble your first part.
 
 I would very much like to see thi eveolve over time and become a robust, easy to build and affordable tumbler that anyone can put together without special skills or tools beyond access to a 3D printer.
 
-Any contribution is absolutely welocome, in any form or shape. Below is a list of things that I know are needed, but it's not limited to that.
+Any contribution is absolutely welocome, in any form or shape. Below is a list of my priorities, but I'm sure there is more.
 
 ### Help Needed
 
-* Build it and take pictures of the process and your results
+* Make It 
+	* Take pictures of the process and your results
+	* Share any feedback, especially suggestions for improvements.
+	* Polish parts using different media/time/object combinations to help me build a catalog of techniques for finishing parts
+	* Improve the instructions
 
-* Improve the instructions
+* Help improve the design
 
-* Polish parts using different media/time/object combinations to help me build a catalog of techniques for finishing parts
+	* Come up with a better motor, with these features, roughly in order of priority:
+		* Standard size that is easy to find around the world
+		* It has an easy way to attach an eccentric load to the axle
+		* Does not require soldering to connect, so it's accessible to more people		
+		* Effective at 12V, because 24V power adapters cost much more				
 
-* If you have any thoughts on things that can be improved or should be changed, let me know.
-
-* A future version needs a better way to connect power to the motor
-	* A switch would be convenient
-	* A potentiometer would be convenient too
-
-* A future version needs a better motor
-	* Standard size that is easy to find around the world
-	* Effective at 12V, because 24V power adapters cost much more
-	* It has an easy way to attach an eccentric load to the axle
-	* More powerful, but not much perhaps
-	* It costs at most around 20$
-	* It comes with detailed power and speed specs
+	* Improve power management:
+		* An ON/OFF Switch
+		* A potentiometer to control speed
+		* Ideally no soldering, so it's accessible to more people		
 	
-* I love Fusion 360, but with the free version it's impossible to collaborate on the designs.
-	* Does anyone know how to handle this?
-	* Or shuld we redesign using open source tools, maybe OpenSCAD?
+	* I designed this with Fusion 360, which is just great but it's impossible to collaborate on the designs with the free version
+		* Does anyone know a workaround?
+		* Or shuld we redesign using open source tools, maybe OpenSCAD?
 
 ## Version History
 
 V0.5
 
-## Future
+## Roadmap
 
-* Manage motor wire in a better way
 * Safety Cage
 * Switch
 * Motor cooling to prevent plastic to go soft
