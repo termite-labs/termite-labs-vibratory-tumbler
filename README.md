@@ -128,6 +128,12 @@ Then top it with Counterweight Part B and close it with a round of tape.
 
 ### 6. Prepare the Tumbling Cup
 
+1. Apply some tape on the sides of the cup
+2. Put the cup over the top and tape it down firmly
+3. Identify the screw holes and mark them with a marker
+4. Take off the cup and drill holes
+5. Apply rubber feet under the cup. These help with vibration and noise.
+
 ![](assets/thumbs/instructions_tumbling_cup_with_tape.jpeg)
 ![](assets/thumbs/instructions_tumblig_cup_taped_to_the_base.jpeg)
 ![](assets/thumbs/instructions_tumbling_cup_marked_for_holes.jpeg)
@@ -136,28 +142,22 @@ Then top it with Counterweight Part B and close it with a round of tape.
 
 ### 7 Install the Tumbling Cup.
 
+1. Fit 4 washers to 4 M4 screws
+2. Put the screws through the cup and base
+3. Add a washer and a bold on the other side
+
 ![](assets/thumbs/instructions_m4_screws_with_washers.jpeg)
 ![](assets/thumbs/instructions_cup_screws_installed.jpeg)
 
 ### 8 Install the base
 
+1. Stick 4 rubber feet to the bottom of the base
+2. Firmly push the spring into place on both frames
+
 ![](assets/instructions_rubber_feet_installed.jpeg)
 ![](assets/thumbs/instructions_base_with_springs.jpeg)
-![](assets/thumbs/instructions_base_with_springs.jpeg)
+![](assets/thumbs/instrcutions_assembly_complete.jpeg)
 
-### 2. Top
-
-#### 2.1 Installing the motor
-
-#### 2.2 Installing the cupthumbs
-
-#### 2.3 Installing the springs
-
-### 3. Base
-
-#### 3.1 Rubber feet
-
-#### 3.2 Connecting the top
 
 ## Tumbling
 
