@@ -10,7 +10,7 @@ This is a prototype and I welcome any help to improve the design. See [Contribut
 
 Photo, Video, Before/After
 
-![Tumbling Walnut Shells](assets/demo/tumbling_walnut_shells.gif)
+![Tumbling Walnut Shells](assets/thumbs/tumbling_crushed_walnut_shells.gif)
 
 ![Before](assets/demo/final.dragon-before.jpeg "Before")
 ![After](assets/demo/final.dragon-after.jpeg "After")
@@ -39,41 +39,38 @@ _(I designed this using Fusion 360, but I can't share the project to be edited b
 
 | Part | Instructions | Image |
 |------|--------------|-------| 
-| Frame Base | Print flat face down, no supports <br/> [Download STL](TVT-Micro-0.5-Frame-Base.stl) | ![Base](assets/models/TVT-Micro-0.5-Frame-Base.stl.png)
-| Frame Top | Print flat face down, no supports <br/> [Download STL](TVT-Micro-0.5-Frame-Top.stl) | ![Base](assets/models/TVT-Micro-0.5-Frame-Top.stl.png)
-| Weight Part A | Print flat face down, supports only in the head part <br/> [Download STL](TVT-Micro-0.5-Weight-A.stl) | ![Base](assets/models/TVT-Micro-0.5-Weight-A.stl.png)
-| Weight Part B | Print flat face down, no supports <br/> [Download STL](TVT-Micro-0.5-Weight-B.stl) | ![Base](assets/models/TVT-Micro-0.5-Weight-B.stl.png)
-| DC Motor |  The frame and weight are designed to fit exactly this motor.  <br/>This works, but in future versions I would like to use a more common motor (see [Contributing](#contributing). The existing counterweight doubles as an attachment for our own counterweight. On the bad side, this motor does not come with any specs (power required or rotation speed).<br/> [Where to Buy]() | ![](assets/parts/final.motor.thumb.jpg)
-| Springs | 4 Springs that connect the base to the top. The is designed to fit exactly the springs dimensions. <br/> [Where to Buy]() | ![Springs](assets/parts/final.spring.thumb.jpg)
-| Tumbling Container | I used what I had at home. Any round plastic cup approx 10cm (4") diameter should work. If you find a good one, please let me know. | ![Container](assets/parts/final.container.jpg)
-| Screws and Bolts | * 2x M2 14mm screws <br/> * 4x M4 28mm screws <br/> * 8x M4 Bolts <br/> [Where to Buy]() | ![Screws and Bolts](assets/parts/final.screws.jpg)
-| Washers | I used plastic washers because thats what I had around, but any washers will do. _Note: all the vibrations are soosing the screws. If you have split washers try those. [Where to Buy]() | ![Washers](assets/parts/final.washers.jpg)
-| 12V Power Adapter | I bought the ceapest 30W I could find. An adapter you already have may just work. <br/> [Where to Buy]() | ![Power Brick](assets/parts/final.power_brick.jpg)
+| Frame Base | Print flat face down, no supports <br/> [Download STL](TVT-Micro-0.5-Frame-Base.stl) | ![Base](assets/thumbs/parts_frame_base.jpeg)
+| Frame Top | Print flat face down, no supports <br/> [Download STL](TVT-Micro-0.5-Frame-Top.stl) | ![Base](assets/thumbs/parts_frame_top.jpeg)
+| Weight Part A | Print flat face down, supports only in the head part <br/> [Download STL](TVT-Micro-0.5-Weight-A.stl) | ![Base](assets/thumbs/parts_weight_part_a.jpeg)
+| Weight Part B | Print flat face down, no supports <br/> [Download STL](TVT-Micro-0.5-Weight-B.stl) | ![Base](assets/thumbs/parts_weight_part_b.jpeg)
+| DC Motor |  The frame and weight are designed to fit exactly this motor.  <br/>This works, but in future versions I would like to use a more common motor (see [Contributing](#contributing). The existing counterweight doubles as an attachment for our own counterweight. On the bad side, this motor does not come with any specs (power required or rotation speed). | ![](assets/parts/final.motor.thumb.jpg)
+| Springs | 4 Springs that connect the base to the top. The is designed to fit exactly the springs dimensions. | ![Springs](assets/thumbs/parts_springs.jpeg)
+| Tumbling Container | I used what I had at home. Any round plastic cup approx 10cm (4") diameter should work. If you find a good one, please let me know. | ![Container](assets/thumbs/parts_tumbling_cup.jpeg)
+| Screws, Bolts and Washers | * 2x M2 14mm screws <br/> * 4x M4 28mm screws <br/> * 8x M4 Bolts <br/> * 8 M4 Washers <br/> 2 M2 Washers <br/> I used plastic washers, but I suspect any will do  | ![Screws and Bolts](assets/thumbs/parts_all_screws.jpeg)
+| 12V Power Adapter | I bought the ceapest 30W I could find. This one is convenient because it comes with multiple connectors. An adapter you already have may just work.| ![Power Brick](assets/parts/final.power_brick.jpg)
+| DC Plug Connectors | | ![Power Brick](assets/thumbs/instructions_dc_female_plug.jpeg)
+| Rubber Feet | Just some rubber feet to limit the tmbler moving around. These are not very effective. | ![Rubber Feet](assets/thumbs/parts_rubber_feet.jpeg)
 | Tumbling Media | I have improved here as I have no experiance with tumbling. I used 3 different things: lots of tiny screws, crushed walnut shells, and stainless steel pins. There are many more media to try. See more in [Using](#using) | ![Screws]() ![Walnuts]() ![Steel Pins]()
-| Rubber Feet | This is optional at this point as they don't work too well to keep the tumbler for moving around, but they help somewhat. | ![Rubber Feet](assets/parts/final.rubber_feet.jpg)
-| Soldering Iron | Any soldering iron will do. I use an Hakko station and it'qrfrvfvava great. <br/> [Where to Buy]() | ![Soldering Iron](assets/parts/final.hakko-solder-station.jpg) |
-| Solder | Any solder should do. <br/> [Where to Buy]() | ![Solder](assets/parts/final.solder.jpg)  
-| Hook Up Wire | To connect power to the motor.  <br/> [Where to Buy]() |
-| Pliers | Used to modify the motor. <br/> [Where to Buy]() | ![Pliers](assets/parts/final.pliers.jpg) |
-| Zip Ties | Used to fix the wiring to the motor <br/> [Where to Buy]() | ![Zip Ties](assets/parts/final.zip_ties.jpg)
-| Tape | Used to fix the wiring to the frame until we come up with a better design. Any tape you have around will work. | ![Tape](assets/parts/final.tape.jpg)
-| 3D Printer | Of course you also need a 3D Printer. I have a Monoprice Voxel (same as a FlashForge Adventurer 3). It's an entry level printer and it works perfectly. You should be fine whater printer you have. [Where to Buy]() | ![Monoprice Voxel](assets/parts/final.monoprice_voxel.jpg)
+| Soldering Iron | You'll need to solder two wires to the motor. It's a small job and any soldering iron will do. I use an Hakko station, it's great. | ![Soldering Iron](assets/thumbs/parts_soldering_iron.jpeg) |
+| Solder | Any solder should do.  | ![Solder](assets/thumbs/parts_solder.jpg)  
+| Hook Up Wire | To connect power to the motor.   | ![Hook Up Wire](assets/thumbs/parts_hook_up_wire.jpeg)
+| Pliers | Used to modify the motor.  | ![Pliers](assets/thumbs/parts_pliers.jpeg) |
+| Zip Ties | 1 Zip tie, used to fix the wiring to the motor | ![Zip Ties](assets/thumbs/parts_zip_ties.jpeg)
+| 3D Printer | Of course you also need access to a 3D Printer. I use a Monoprice Voxel (same as a FlashForge Adventurer 3). It's an entry level printer and it works perfectly. You should be fine whater printer you have. | ![Monoprice Voxel](assets/thumbs/parts_printer.jpg)
 
 ## Instructions
 
-#### 1 Remove Motor Counterweight
+### 1 Remove Motor Counterweight
 
 Needed: Motor, Pliers
 
 1. Identify the end of the motor hthat does __NOT__ have power connectors
 2. Grab the weight with a pair of pliers, gently twist it left and right until it comes off.
 
-![](assets/instructions/final.motor_remove_weight_wrong_side.jpeg)
-![](assets/instructions/final.motor_remove_weight_right_side.jpeg)
 ![](assets/instructions/final.motor_remove_weight.jpeg)
 ![](assets/instructions/final.motor_remove_weight_done.jpeg)
 
-#### 2 Attach the motor to the frame top
+### 2. Attach the motor to the frame top
 
 Needed: Frame Top, Motor, M2 Washers, M2 Screws
 
@@ -82,65 +79,77 @@ Watch out: if your screws are too long and are screwed too deep into the motor, 
 1. Fit 2 washers on 2 M2 14mm screws
 2. Put the screws in their holes on the Frame Top
 3. Fit 2 washers on the other side of the screws
-4. Fit the motor in the socket to atch the screw holes to the screws
+4. Fit the motor in the socket to match the screw holes to the screws
 5. Turn the screws until the motor is snug
 6. Test that the motor can still turn. If it does not turn properly, the screws are too deep. Start over adding more washers on the front side, until it works properly.
 
-![](assets/instructions/final.motor_frame_screws_with_washers.jpeg)
-![](assets/instructions/final.motor_frame_screws_front.jpeg)
-![](assets/instructions/final.motor_frame_screws_back.jpeg)
-![](assets/instructions/final.motor_frame_installed.jpeg)
+![](assets/thumbs/instructions_m2_screws_with_washers.jpeg)
+![](assets/thumbs/instructions_motor_screws_inserted.jpeg)
+![](assets/thumbs/instructions_motor_connector_side.jpeg)
 
-
-
-#### 2 Wire the motor
+#### 3. Wire the motor
 
 Neede: Motor, Hook up wire, Soldering Iron, Solder, Zip Tie
 
-1. Cut two lengths of hook-up wire (~15cm/6") of different colors, red and black if possible.
-2. Strip the ends
-3. Solder the red wire to the + connector (marked with the red dot)
-4. Solder the black wire to the - connector
-5. Tie the wires to the motor with a zip tie. Keep the tie close to the connectors like in the image. 
+1. Cut two lengths of hook-up wire (~15cm/6") of different colors, red and black if possible and strip the ends
+2. Solder the red wire to the + connector (marked with the red dot)
+3. Solder the black wire to the - connector
+4. Fit the wires in the frame cut
+5. Tie the wires to the motor with a zip tie and cut the excess plastic
 
-![Stripped Wires](assets/instructions/final.motor_solder_wires.jpeg)
-![Red Wire Soldered](assets/instructions/final.motor_solder_red.jpeg)
-![Black Wire Soldered](assets/instructions/final.motor_solder_black.jpeg)
-![Wires Zip Tied](assets/instructions/final.motor_solder_tie.jpeg)
+![Stripped Wires](assets/thumbs/instructions_stripped_wires.jpeg)
+![Motor Soldered](assets/thumbs/instructions_motor_soldered.jpeg)
+![Motor Wires Fitted](assets/thumbs/instructions_motor_wire_in_fittnig.jpeg)
+![Wires Zip Tied](assets/thumbs/instructions_motor_with_zip_tie.jpeg)
 
-#### 3 Connect to the power adapter
+### 4. Connect to the power adapter
 
 Needed: Motor, Female DC Connector, DC Adapter
 
 1. Connect the wires to the power Female DC Connector. Make sure the + wire connects to the + sign on the connector
 2. If your DC adapter has universal connectors, find the one that fits the connector you just wired, and you are done.
 3. If your connector does not have an adapter, strip the ends and connect them to a Male DC Connector. 
+6. Tape over the wire to keep it place
 
-![Female Connector](assets/instructions/final.connector_female.jpeg)
-![Connector Plus](assets/instructions/final.connector_plus.jpeg)
-![Connector Wired](assets/instructions/final.connector_wired.jpeg)
-![Power Brick Adapter](assets/instructions/final.power_brick_adapter.jpeg)
-![](assets/instructions/final.connector_complete.jpeg)
+![Female DC Plug](assets/thumbs/instructions_dc_female_plug.jpeg)
+![DC Plug Connected](assets/thumbs/instructions_dc_plug_connected.jpeg)
+![Connector Wired](assets/thumbs/instructions_dc_plug_with_power_adapter_connected.jpeg)
+![Wire Tape Applied](assets/thumbs/instructions_wire_tape_applied.jpeg)
 
-_This part is not very elegant. If you have a better solution, please let me know_
-
-#### 1.4 Installing new counterweight
+### 5. Install the new counterweight
 
 First slide in the Counterweight Part A so that the motoer weight sits snugly in the part head.
 
-![Image 1]()
-
 Then top it with Counterweight Part B and close it with a round of tape.
 
-![Image 2]()
+![Weight A Installed](assets/thumbs/instructions_weight_a_installed.jpeg)
+![Weight B Installed](assets/thumbs/instructions_weight_b_installed.jpeg)
+![Weight B Taped](assets/thumbs/instructions_weights_taped.jpeg)
 
-The holes allow to experiment with adding more weight, but I have not tried it yet as they may put to much stress on the motor.
+### 6. Prepare the Tumbling Cup
+
+![](assets/thumbs/instructions_tumbling_cup_with_tape.jpeg)
+![](assets/thumbs/instructions_tumblig_cup_taped_to_the_base.jpeg)
+![](assets/thumbs/instructions_tumbling_cup_marked_for_holes.jpeg)
+![](assets/thumbs/instructions_tumbling_cup_with_holes.jpeg)
+![](assets/thumbs/instructions_tumbling_cup_rubber_feet_installed.jpeg)
+
+### 7 Install the Tumbling Cup.
+
+![](assets/thumbs/instructions_m4_screws_with_washers.jpeg)
+![](assets/thumbs/instructions_cup_screws_installed.jpeg)
+
+### 8 Install the base
+
+![](assets/instructions_rubber_feet_installed.jpeg)
+![](assets/thumbs/instructions_base_with_springs.jpeg)
+![](assets/thumbs/instructions_base_with_springs.jpeg)
 
 ### 2. Top
 
 #### 2.1 Installing the motor
 
-#### 2.2 Installing the cup
+#### 2.2 Installing the cupthumbs
 
 #### 2.3 Installing the springs
 
@@ -172,6 +181,8 @@ Any contribution is absolutely welocome, in any form or shape. He.re is a list o
 	* Share any feedback, especially suggestions for improvements.
 	* Polish parts using different media/time/object combinations to help me build a catalog of techniques for finishing parts
 	* Improve the instructions
+
+* Have a look at the open issues, maybe you can help: [Open Issues](https://github.com/termite-labs/3d-printed-vibratory-tumbler/issues)
 
 * Help improve the design
 
@@ -243,8 +254,6 @@ For the motor and springs, pay attentions to the links tagged with __*__: the pr
 | 3D Printer  - Monoprice Voxel | [USA]() | [U.K.]() | [Italy]() | [France]() | [Spain]() | [Germany]() | [India]() | [Japan]() | 
 | 3D Printer  - Flashforge Adventurer 3 | [USA]() | [U.K.]() | [Italy]() | [France]() | [Spain]() | [Germany]() | [India]() | [Japan]() | 
 | eSUN PLA+ Filament | [USA]() | [U.K.]() | [Italy]() | [France]() | [Spain]() | [Germany]() | [India]() | [Japan]() | 
-
-
 
 ## Acknowledgments
 
