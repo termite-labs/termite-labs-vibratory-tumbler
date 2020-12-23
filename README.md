@@ -154,7 +154,7 @@ Then top it with Counterweight Part B and close it with a round of tape.
 1. Stick 4 rubber feet to the bottom of the base
 2. Firmly push the spring into place on both frames
 
-![](assets/instructions_rubber_feet_installed.jpeg)
+![](assets/thumbs/instructions_rubber_feet_installed.jpeg)
 ![](assets/thumbs/instructions_base_with_springs.jpeg)
 ![](assets/thumbs/instrcutions_assembly_complete.jpeg)
 
