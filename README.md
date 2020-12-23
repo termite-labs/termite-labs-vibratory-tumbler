@@ -31,11 +31,7 @@ Photo, Video, Before/After
 
 ## Materials
 
-Collect your materials, then head on to the [Instructions](#instructions). The only two things that you need to buy specifically as descibed are the springs and the motor. Most other things you can probably make do with what you have around, or find them at your local hardware store. You can find amazon [links](#where-to-buy) at the bottom to buy all parts online.
-
-I printed my parts in eSun PLA+, 0.3mm layer height and medium speed for my printer. I recommend to use high setting for your layer height as it should make the parts stronger, at the cost of aesthetics. 
-
-_(I designed this using Fusion 360, but I can't share the project to be edited by others because I'm using the free "hobby" version. Here is a [read-only link to the Fusion design](https://a360.co/3a8lYfV). Shout if you know how to fix this)_
+Collect your materials, then head on to the [Instructions](#instructions). The only two things that you need to buy specifically as descibed are the springs and the motor. Most other things you can probably make do with what you have around, or find them at your local hardware store. Amazon [links](#where-to-buy) for all the material are at the bottom of the page.
 
 | Part | Instructions | Image |
 |------|--------------|-------| 
@@ -60,7 +56,11 @@ _(I designed this using Fusion 360, but I can't share the project to be edited b
 
 ## Instructions
 
-### 1 Remove Motor Counterweight
+### 1. Print the parts
+
+Print all 4 STL files. I had good reusults with PLA+ at 0.3mm layer height and medium speed
+
+### 2. Remove Motor Counterweight
 
 Needed: Motor, Pliers
 
@@ -70,7 +70,7 @@ Needed: Motor, Pliers
 ![](assets/instructions/final.motor_remove_weight.jpeg)
 ![](assets/instructions/final.motor_remove_weight_done.jpeg)
 
-### 2. Attach the motor to the frame top
+### 3. Attach the motor to the frame top
 
 Needed: Frame Top, Motor, M2 Washers, M2 Screws
 
@@ -87,7 +87,7 @@ Watch out: if your screws are too long and are screwed too deep into the motor, 
 ![](assets/thumbs/instructions_motor_screws_inserted.jpeg)
 ![](assets/thumbs/instructions_motor_connector_side.jpeg)
 
-#### 3. Wire the motor
+#### 4. Wire the motor
 
 Neede: Motor, Hook up wire, Soldering Iron, Solder, Zip Tie
 
@@ -102,7 +102,7 @@ Neede: Motor, Hook up wire, Soldering Iron, Solder, Zip Tie
 ![Motor Wires Fitted](assets/thumbs/instructions_motor_wire_in_fittnig.jpeg)
 ![Wires Zip Tied](assets/thumbs/instructions_motor_with_zip_tie.jpeg)
 
-### 4. Connect to the power adapter
+### 5. Connect to the power adapter
 
 Needed: Motor, Female DC Connector, DC Adapter
 
@@ -116,7 +116,7 @@ Needed: Motor, Female DC Connector, DC Adapter
 ![Connector Wired](assets/thumbs/instructions_dc_plug_with_power_adapter_connected.jpeg)
 ![Wire Tape Applied](assets/thumbs/instructions_wire_tape_applied.jpeg)
 
-### 5. Install the new counterweight
+### 6. Install the new counterweight
 
 First slide in the Counterweight Part A so that the motoer weight sits snugly in the part head.
 
@@ -126,7 +126,7 @@ Then top it with Counterweight Part B and close it with a round of tape.
 ![Weight B Installed](assets/thumbs/instructions_weight_b_installed.jpeg)
 ![Weight B Taped](assets/thumbs/instructions_weights_taped.jpeg)
 
-### 6. Prepare the Tumbling Cup
+### 7. Prepare the Tumbling Cup
 
 1. Apply some tape on the sides of the cup
 2. Put the cup over the top and tape it down firmly
@@ -140,7 +140,7 @@ Then top it with Counterweight Part B and close it with a round of tape.
 ![](assets/thumbs/instructions_tumbling_cup_with_holes.jpeg)
 ![](assets/thumbs/instructions_tumbling_cup_rubber_feet_installed.jpeg)
 
-### 7 Install the Tumbling Cup.
+### 8. Install the Tumbling Cup.
 
 1. Fit 4 washers to 4 M4 screws
 2. Put the screws through the cup and base
@@ -149,7 +149,7 @@ Then top it with Counterweight Part B and close it with a round of tape.
 ![](assets/thumbs/instructions_m4_screws_with_washers.jpeg)
 ![](assets/thumbs/instructions_cup_screws_installed.jpeg)
 
-### 8 Install the base
+### 9. Install the base
 
 1. Stick 4 rubber feet to the bottom of the base
 2. Firmly push the spring into place on both frames
