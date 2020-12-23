@@ -130,7 +130,7 @@ If all worked well, you should be ready to tumble your first part.
 
 I would very much like to see thi eveolve over time and become a robust, easy to build and affordable tumbler that anyone can put together without special skills or tools beyond access to a 3D printer.
 
-Any contribution is absolutely welocome, in any form or shape. Below is a list of my priorities, but I'm sure there is more.
+Any contribution is absolutely welocome, in any form or shape. He.re is a list of my priorities, but I'm sure there is more.
 
 ### Help Needed
 

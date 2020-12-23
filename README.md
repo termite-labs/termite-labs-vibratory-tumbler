@@ -43,10 +43,10 @@ _(I designed this using Fusion 360, but I can't share the project to be edited b
 | Frame Top | Print flat face down, no supports <br/> [Download STL](TVT-Micro-0.5-Frame-Top.stl) | ![Base](assets/models/TVT-Micro-0.5-Frame-Top.stl.png)
 | Weight Part A | Print flat face down, supports only in the head part <br/> [Download STL](TVT-Micro-0.5-Weight-A.stl) | ![Base](assets/models/TVT-Micro-0.5-Weight-A.stl.png)
 | Weight Part B | Print flat face down, no supports <br/> [Download STL](TVT-Micro-0.5-Weight-B.stl) | ![Base](assets/models/TVT-Micro-0.5-Weight-B.stl.png)
-| DC Motor |  The frame and weight are designed to fit exactly this motor.  <br/>I used what I had around. In future versions I would like to use a more common motor (see [Contributing](#contributing)), but this seems to work for now with a small modification (see [Instructions](#instructions)). The existing counterweight doubles as an attachment for our own counterweight. On the bad side, this motor does not come with any specs (power required or rotation speed).<br/> [Where to Buy]() | ![](assets/parts/final.motor.thumb.jpg)
+| DC Motor |  The frame and weight are designed to fit exactly this motor.  <br/>This works, but in future versions I would like to use a more common motor (see [Contributing](#contributing). The existing counterweight doubles as an attachment for our own counterweight. On the bad side, this motor does not come with any specs (power required or rotation speed).<br/> [Where to Buy]() | ![](assets/parts/final.motor.thumb.jpg)
 | Springs | 4 Springs that connect the base to the top. The is designed to fit exactly the springs dimensions. <br/> [Where to Buy]() | ![Springs](assets/parts/final.spring.thumb.jpg)
 | Tumbling Container | I used what I had at home. Any round plastic cup approx 10cm (4") diameter should work. If you find a good one, please let me know. | ![Container](assets/parts/final.container.jpg)
-| Screws and Bolts | <br/> [Where to Buy]() | ![Screws and Bolts](assets/parts/final.screws.jpg)
+| Screws and Bolts | * 2x M2 14mm screws <br/> * 4x M4 28mm screws <br/> * 8x M4 Bolts <br/> [Where to Buy]() | ![Screws and Bolts](assets/parts/final.screws.jpg)
 | Washers | I used plastic washers because thats what I had around, but any washers will do. _Note: all the vibrations are soosing the screws. If you have split washers try those. [Where to Buy]() | ![Washers](assets/parts/final.washers.jpg)
 | 12V Power Adapter | I bought the ceapest 30W I could find. An adapter you already have may just work. <br/> [Where to Buy]() | ![Power Brick](assets/parts/final.power_brick.jpg)
 | Tumbling Media | I have improved here as I have no experiance with tumbling. I used 3 different things: lots of tiny screws, crushed walnut shells, and stainless steel pins. There are many more media to try. See more in [Using](#using) | ![Screws]() ![Walnuts]() ![Steel Pins]()
@@ -73,11 +73,31 @@ Needed: Motor, Pliers
 ![](assets/instructions/final.motor_remove_weight.jpeg)
 ![](assets/instructions/final.motor_remove_weight_done.jpeg)
 
+#### 2 Attach the motor to the frame top
+
+Needed: Frame Top, Motor, M2 Washers, M2 Screws
+
+Watch out: if your screws are too long and are screwed too deep into the motor, the motor will not turn properly. 
+
+1. Fit 2 washers on 2 M2 14mm screws
+2. Put the screws in their holes on the Frame Top
+3. Fit 2 washers on the other side of the screws
+4. Fit the motor in the socket to atch the screw holes to the screws
+5. Turn the screws until the motor is snug
+6. Test that the motor can still turn. If it does not turn properly, the screws are too deep. Start over adding more washers on the front side, until it works properly.
+
+![](assets/instructions/final.motor_frame_screws_with_washers.jpeg)
+![](assets/instructions/final.motor_frame_screws_front.jpeg)
+![](assets/instructions/final.motor_frame_screws_back.jpeg)
+![](assets/instructions/final.motor_frame_installed.jpeg)
+
+
+
 #### 2 Wire the motor
 
 Neede: Motor, Hook up wire, Soldering Iron, Solder, Zip Tie
 
-1. Cut two lengths of hook-up wire (~20cm/8") of different colors, red and black if possible.
+1. Cut two lengths of hook-up wire (~15cm/6") of different colors, red and black if possible.
 2. Strip the ends
 3. Solder the red wire to the + connector (marked with the red dot)
 4. Solder the black wire to the - connector
@@ -143,33 +163,32 @@ If all worked well, you should be ready to tumble your first part.
 
 I would very much like to see thi eveolve over time and become a robust, easy to build and affordable tumbler that anyone can put together without special skills or tools beyond access to a 3D printer.
 
-Any contribution is absolutely welocome, in any form or shape. Below is a list of things that I know are needed, but it's not limited to that.
+Any contribution is absolutely welocome, in any form or shape. He.re is a list of my priorities, but I'm sure there is more.
 
 ### Help Needed
 
-* Build it and take pictures of the process and your results
+* Make It 
+	* Take pictures of the process and your results
+	* Share any feedback, especially suggestions for improvements.
+	* Polish parts using different media/time/object combinations to help me build a catalog of techniques for finishing parts
+	* Improve the instructions
 
-* Improve the instructions
+* Help improve the design
 
-* Polish parts using different media/time/object combinations to help me build a catalog of techniques for finishing parts
+	* Come up with a better motor, with these features, roughly in order of priority:
+		* Standard size that is easy to find around the world
+		* It has an easy way to attach an eccentric load to the axle
+		* Does not require soldering to connect, so it's accessible to more people		
+		* Effective at 12V, because 24V power adapters cost much more				
 
-* If you have any thoughts on things that can be improved or should be changed, let me know.
-
-* A future version needs a better way to connect power to the motor
-	* A switch would be convenient
-	* A potentiometer would be convenient too
-
-* A future version needs a better motor
-	* Standard size that is easy to find around the world
-	* Effective at 12V, because 24V power adapters cost much more
-	* It has an easy way to attach an eccentric load to the axle
-	* More powerful, but not much perhaps
-	* It costs at most around 20$
-	* It comes with detailed power and speed specs
+	* Improve power management:
+		* An ON/OFF Switch
+		* A potentiometer to control speed
+		* Ideally no soldering, so it's accessible to more people		
 	
-* I love Fusion 360, but with the free version it's impossible to collaborate on the designs.
-	* Does anyone know how to handle this?
-	* Or shuld we redesign using open source tools, maybe OpenSCAD?
+	* I designed this with Fusion 360, which is just great but it's impossible to collaborate on the designs with the free version
+		* Does anyone know a workaround?
+		* Or shuld we redesign using open source tools, maybe OpenSCAD?
 
 ## Version History
 

@@ -16,17 +16,15 @@ for i in *.stl; do
   rm "$T"
 done
 
-function resize {
-	rm $1/final*	
-	for i in $(ls $1/*); do		
+function make_thumbs {	
+    rm -r $1/thumbs/*
+	for i in $(ls $1/* | grep jpeg); do		
 		dir=`dirname $i`
 		file=`basename $i`
-		out="$dir"/final.$file				
+		out="$dir"/thumbs/$file				
 		convert $i -resize $parts_width"x"$parts_height $out
 		echo "converted $i to $out"
 	done		
 }
 
-resize "assets/parts" $parts_width $parts_height
-resize "assets/instructions" $instructions_width $instructions_height
-resize "assets/demo" $instructions_width $instructions_height
+resize "assets" $parts_width $parts_height
