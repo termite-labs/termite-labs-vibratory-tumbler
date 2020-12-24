@@ -6,10 +6,6 @@ This is a small vibratory tumbler I put together with my 3D printer and parts I 
 
 This is a prototype and I welcome any help to improve the design. See [Contributing](#contributing) to know more.
 
-
-
-Photo, Video, Before/After
-
 ![Tumbling Walnut Shells](assets/thumbs/tumbling_crushed_walnut_shells.gif)
 
 ![Before](assets/demo/final.dragon-before.jpeg "Before")
@@ -46,13 +42,13 @@ Collect your materials, then head on to the [Instructions](#instructions). The o
 | 12V Power Adapter | I bought the ceapest 30W I could find. This one is convenient because it comes with multiple connectors. An adapter you already have may just work.| ![Power Brick](assets/parts/final.power_brick.jpg)
 | DC Plug Connectors | | ![Power Brick](assets/thumbs/instructions_dc_female_plug.jpeg)
 | Rubber Feet | Just some rubber feet to limit the tmbler moving around. These are not very effective. | ![Rubber Feet](assets/thumbs/parts_rubber_feet.jpeg)
-| Tumbling Media | I have improved here as I have no experiance with tumbling. I used 3 different things: lots of tiny screws, crushed walnut shells, and stainless steel pins. There are many more media to try. See more in [Using](#using) | ![Screws]() ![Walnuts]() ![Steel Pins]()
+| Tumbling Media | | ![Screws](assets/thumbs/parts_tumbling_screws.jpeg) ![Walnuts](assets/thumbs/parts_tumbling_walnuts.jpeg) ![Steel Pins](assets/thumbs/parts_tumbling_steel_pins.jpeg)
 | Soldering Iron | You'll need to solder two wires to the motor. It's a small job and any soldering iron will do. I use an Hakko station, it's great. | ![Soldering Iron](assets/thumbs/parts_soldering_iron.jpeg) |
 | Solder | Any solder should do.  | ![Solder](assets/thumbs/parts_solder.jpeg)  
 | Hook Up Wire | To connect power to the motor.   | ![Hook Up Wire](assets/thumbs/parts_hook_up_wire.jpeg)
 | Pliers | Used to modify the motor.  | ![Pliers](assets/thumbs/parts_pliers.jpeg) |
 | Zip Ties | 1 Zip tie, used to fix the wiring to the motor | ![Zip Ties](assets/thumbs/parts_zip_ties.jpeg)
-| 3D Printer | Of course you also need access to a 3D Printer. I use a Monoprice Voxel (same as a FlashForge Adventurer 3). It's an entry level printer and it works perfectly. You should be fine whater printer you have. | ![Monoprice Voxel](assets/thumbs/parts_printer.jpg)
+| 3D Printer | Of course you also need access to a 3D Printer. I use a Monoprice Voxel (same as a FlashForge Adventurer 3). It's an entry level printer and it works perfectly. You should be fine whater printer you have. | ![Monoprice Voxel](assets/thumbs/parts_3d_printer.jpg)
 
 ## Instructions
 
@@ -152,21 +148,25 @@ Then top it with Counterweight Part B and close it with a round of tape.
 ### 9. Install the base
 
 1. Stick 4 rubber feet to the bottom of the base
-2. Firmly push the spring into place on both frames
+2. Firmly push the spring into place on both frames, and you are done!
 
 ![](assets/thumbs/instructions_rubber_feet_installed.jpeg)
 ![](assets/thumbs/instructions_base_with_springs.jpeg)
 ![](assets/thumbs/instrcutions_assembly_complete.jpeg)
 
+### 10. Tumble!
 
-## Tumbling
+For tumbling I'm trying different media, and I'll try more over time. Any suggestion is welcome!
 
-If all worked well, you should be ready to tumble your first part. 
+* Screws - for gross details. It left a black patina on the parts. The patina comes off eventually with some brushing and further tumbling. It needs a few hours.
+* Steel pins - intermediate
+* Crushed Walnut Shells - final step for polishing
 
-1. Pour the tumbling media in the cup and close
-2. Start it. If the rubber feet don't prevent it to move around, tryin placing something underneath like a heavy cloth or nest it between two heavy objects like two large books. I'm trying to figure out a better solution.
-3. Let it go, it's going to take a while, perhaps hours to make a difference, depending on the part and the media.
-4. For 3D printed parts, I'm first tumbling with screws, then steel needles and finish it off with walnut shells. I'll post before/after pictures.
+![](assets/thumbs/tumbling_crushed_walnut_shells.mov)
+
+![](assets/thumbs/tumbling_steel_pins.mov)
+
+![](assets/thumbs/tumbling_screws.mov)
 
 ## Contributing
 
