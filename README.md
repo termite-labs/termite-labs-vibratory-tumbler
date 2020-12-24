@@ -48,7 +48,7 @@ Collect your materials, then head on to the [Instructions](#instructions). The o
 | Rubber Feet | Just some rubber feet to limit the tmbler moving around. These are not very effective. | ![Rubber Feet](assets/thumbs/parts_rubber_feet.jpeg)
 | Tumbling Media | I have improved here as I have no experiance with tumbling. I used 3 different things: lots of tiny screws, crushed walnut shells, and stainless steel pins. There are many more media to try. See more in [Using](#using) | ![Screws]() ![Walnuts]() ![Steel Pins]()
 | Soldering Iron | You'll need to solder two wires to the motor. It's a small job and any soldering iron will do. I use an Hakko station, it's great. | ![Soldering Iron](assets/thumbs/parts_soldering_iron.jpeg) |
-| Solder | Any solder should do.  | ![Solder](assets/thumbs/parts_solder.jpg)  
+| Solder | Any solder should do.  | ![Solder](assets/thumbs/parts_solder.jpeg)  
 | Hook Up Wire | To connect power to the motor.   | ![Hook Up Wire](assets/thumbs/parts_hook_up_wire.jpeg)
 | Pliers | Used to modify the motor.  | ![Pliers](assets/thumbs/parts_pliers.jpeg) |
 | Zip Ties | 1 Zip tie, used to fix the wiring to the motor | ![Zip Ties](assets/thumbs/parts_zip_ties.jpeg)
