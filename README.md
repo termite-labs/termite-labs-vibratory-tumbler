@@ -6,10 +6,9 @@ This is a small vibratory tumbler I put together with my 3D printer and parts I 
 
 This is a prototype and I welcome any help to improve the design. See [Contributing](#contributing) to know more.
 
-![Tumbling Walnut Shells](assets/thumbs/tumbling_crushed_walnut_shells.gif)
+![Tumbling Walnut Shells](assets/tumbling_crushed_walnut_shells.gif)
 
-![Before](assets/demo/final.dragon-before.jpeg "Before")
-![After](assets/demo/final.dragon-after.jpeg "After")
+This project is also on [](Thingiverse)
 
 ## Safety Warning
 * This projects features a __rapidly spinning electric motor__ with an eccenric load
@@ -161,11 +160,11 @@ For tumbling I'm trying different media, and I'll try more over time. Any sugges
 * Steel pins - intermediate
 * Crushed Walnut Shells - final step for polishing
 
-![](assets/thumbs/tumbling_crushed_walnut_shells.mov)
+![](assets/tumbling_crushed_walnut_shells.gif)
 
-![](assets/thumbs/tumbling_steel_pins.mov)
+![](assets/tumbling_steel_pins.gif)
 
-![](assets/thumbs/tumbling_screws.mov)
+![](assets/tumbling_screws.gif)
 
 ## Contributing
 
@@ -212,23 +211,21 @@ For the motor and springs, pay attentions to the links tagged with __*__: the pr
 | | | | | | | | | |
 |----|---|---|---|---|---|---|---|---| 
 | Motor 	| *[USA](https://amzn.to/3anLfTA) | [U.K.](https://amzn.to/3mzgGN5) | *[Italy](https://amzn.to/2LUwXzE) | *[France](https://amzn.to/3p37aU2) | *[Spain](https://amzn.to/38oDMRC) | *[Germany](https://amzn.to/38jFcg1) | India(N/A) | *[Japan](https://www.amazon.co.jp/-/en/Vibration-Electric-Oscillating-Powerful-Excenters/dp/B07Y67FJR2/ref=sr_1_4?dchild=1&keywords=Vibration+Motor+DC+12V&qid=1608531665&sr=8-4) | 
-| Springs	| *[USA]() | [U.K.]() | *[Italy]() | *[France]() | *[Spain]() | *[Germany]() | *[India]() | *[Japan]() | 
-| Screws and Bolts | [USA]() | [U.K.]() | [Italy]() | [France]() | [Spain]() | [Germany]() | [India]() | [Japan]() | 
-| Washers | [USA]() | [U.K.]() | [Italy]() | [France]() | [Spain]() | [Germany]() | [India]() | [Japan]() | 
-| 12V Power Adapter | [USA]() | [U.K.]() | [Italy]() | [France]() | [Spain]() | [Germany]() | [India]() | [Japan]() | 
-| Tumbling Media - Screws | [USA]() | [U.K.]() | [Italy]() | [France]() | [Spain]() | [Germany]() | [India]() | [Japan]() | 
-| Tumbling Media - Walnut Shells | [USA]() | [U.K.]() | [Italy]() | [France]() | [Spain]() | [Germany]() | [India]() | [Japan]() | 
-| Tumbling Media - Steel Pins | [USA]() | [U.K.]() | [Italy]() | [France]() | [Spain]() | [Germany]() | [India]() | [Japan]() | 
-| Rubber Feet | [USA]() | [U.K.]() | [Italy]() | [France]() | [Spain]() | [Germany]() | [India]() | [Japan]() | 
-| Soldering Iron - Hakko FX-888D | [USA]() | [U.K.]() | [Italy]() | [France]() | [Spain]() | [Germany]() | [India]() | [Japan]() | 
-| Solder | [USA]() | [U.K.]() | [Italy]() | [France]() | [Spain]() | [Germany]() | [India]() | [Japan]() | 
-| Wire | [USA]() | [U.K.]() | [Italy]() | [France]() | [Spain]() | [Germany]() | [India]() | [Japan]() | 
-| Zip Ties | [USA]() | [U.K.]() | [Italy]() | [France]() | [Spain]() | [Germany]() | [India]() | [Japan]() | 
-| Pliers | [USA]() | [U.K.]() | [Italy]() | [France]() | [Spain]() | [Germany]() | [India]() | [Japan]() | 
-| Tape | [USA]() | [U.K.]() | [Italy]() | [France]() | [Spain]() | [Germany]() | [India]() | [Japan]() | 
-| 3D Printer  - Monoprice Voxel | [USA]() | [U.K.]() | [Italy]() | [France]() | [Spain]() | [Germany]() | [India]() | [Japan]() | 
-| 3D Printer  - Flashforge Adventurer 3 | [USA]() | [U.K.]() | [Italy]() | [France]() | [Spain]() | [Germany]() | [India]() | [Japan]() | 
-| eSUN PLA+ Filament | [USA]() | [U.K.]() | [Italy]() | [France]() | [Spain]() | [Germany]() | [India]() | [Japan]() | 
+| Springs	| *[USA](https://amzn.to/38nKfMr) | [U.K.](https://amzn.to/3h992aY) | *[Italy](https://amzn.to/3pfz3bs) | *[France](https://amzn.to/34vpcXc) | *[Spain]() | *[Germany](https://amzn.to/38oksDZ) |  *[Japan](https://www.amazon.co.jp/-/en/uxcell-Diameter-Stainless-Extended-Compressed/dp/B07N2PD5S5/ref=sr_1_4?dchild=1&keywords=Diameter+0.05%22%2C+OD+0.39%22%2C+Free+Length+2%22&qid=1608556513&sr=8-4) | 
+| Screws and Bolts | TBD |
+| Washers | TBD |
+| 12V Power Adapter | TBD |
+| Tumbling Media - Screws | TBD |
+| Tumbling Media - Walnut Shells | TBD |
+| Tumbling Media - Steel Pins | TBD |
+| Rubber Feet | TBD |
+| Soldering Iron - Hakko FX-888D | TBD |
+| Solder | TBD |
+| Wire | TBD |
+| Zip Ties | TBD |
+| Pliers | TBD |
+| 3D Printer  - Monoprice Voxel | TBD |
+| eSUN PLA+ Filament | TBD |
 
 ## Acknowledgments
 
