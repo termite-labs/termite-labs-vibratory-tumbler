@@ -42,7 +42,7 @@ Collect your materials, then head on to the [Instructions](#instructions). The o
 | 12V Power Adapter | I bought the ceapest 30W I could find. This one is convenient because it comes with multiple connectors. An adapter you already have may just work.| ![Power Brick](assets/parts/final.power_brick.jpg)
 | DC Plug Connectors | | ![Power Brick](assets/thumbs/instructions_dc_female_plug.jpeg)
 | Rubber Feet | Just some rubber feet to limit the tmbler moving around. These are not very effective. | ![Rubber Feet](assets/thumbs/parts_rubber_feet.jpeg)
-| Tumbling Media | | ![Screws](assets/thumbs/parts_tumbling_screws.jpeg) ![Walnuts](assets/thumbs/parts_tumbling_walnuts.jpeg) ![Steel Pins](assets/thumbs/parts_tumbling_steel_pins.jpeg)
+| Tumbling Media | | ![Screws](assets/thumbs/parts_tumbling_screws.jpeg) ![Walnuts](assets/thumbs/parts_tumbling_steel_pins.jpeg) ![Steel Pins](assets/thumbs/parts_tumbling_walnuts.jpeg)
 | Soldering Iron | You'll need to solder two wires to the motor. It's a small job and any soldering iron will do. I use an Hakko station, it's great. | ![Soldering Iron](assets/thumbs/parts_soldering_iron.jpeg) |
 | Solder | Any solder should do.  | ![Solder](assets/thumbs/parts_solder.jpeg)  
 | Hook Up Wire | To connect power to the motor.   | ![Hook Up Wire](assets/thumbs/parts_hook_up_wire.jpeg)
