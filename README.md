@@ -21,7 +21,6 @@ This is a prototype and I welcome any help to improve the design. See [Contribut
 * [Materials](#materials)
 * [Instructions](#instructions)
 * [Tumbling](#tumbling)
-* [Future](#future)
 * [Contributing](#contributing)
 * [Acknowledgements](#acknowledgements)
 
@@ -42,7 +41,7 @@ Collect your materials, then head on to the [Instructions](#instructions). The o
 | 12V Power Adapter | I bought the ceapest 30W I could find. This one is convenient because it comes with multiple connectors. An adapter you already have may just work.| ![Power Brick](assets/parts/final.power_brick.jpg)
 | DC Plug Connectors | | ![Power Brick](assets/thumbs/instructions_dc_female_plug.jpeg)
 | Rubber Feet | Just some rubber feet to limit the tmbler moving around. These are not very effective. | ![Rubber Feet](assets/thumbs/parts_rubber_feet.jpeg)
-| Tumbling Media | | ![Screws](assets/thumbs/parts_tumbling_screws.jpeg) ![Walnuts](assets/thumbs/parts_tumbling_steel_pins.jpeg) ![Steel Pins](assets/thumbs/parts_tumbling_walnuts.jpeg)
+| Tumbling Media | I briefly tried out three tumbling media options: <br/> screws, steel pins, and crushed walnut shells. See [Tumbling](#tumbling) for more info. | ![Screws](assets/thumbs/parts_tumbling_screws.jpeg) ![Walnuts](assets/thumbs/parts_tumbling_steel_pins.jpeg) ![Steel Pins](assets/thumbs/parts_tumbling_walnuts.jpeg)
 | Soldering Iron | You'll need to solder two wires to the motor. It's a small job and any soldering iron will do. I use an Hakko station, it's great. | ![Soldering Iron](assets/thumbs/parts_soldering_iron.jpeg) |
 | Solder | Any solder should do.  | ![Solder](assets/thumbs/parts_solder.jpeg)  
 | Hook Up Wire | To connect power to the motor.   | ![Hook Up Wire](assets/thumbs/parts_hook_up_wire.jpeg)
@@ -154,7 +153,7 @@ Then top it with Counterweight Part B and close it with a round of tape.
 ![](assets/thumbs/instructions_base_with_springs.jpeg)
 ![](assets/thumbs/instrcutions_assembly_complete.jpeg)
 
-### 10. Tumble!
+## Tumble
 
 For tumbling I'm trying different media, and I'll try more over time. Any suggestion is welcome!
 
@@ -201,30 +200,6 @@ Any contribution is absolutely welocome, in any form or shape. He.re is a list o
 		* Does anyone know a workaround?
 		* Or shuld we redesign using open source tools, maybe OpenSCAD?
 
-## Version History
-
-V0.5
-
-## Future
-
-* Manage motor wire in a better way
-* Safety Cage
-* Switch
-* Motor cooling to prevent plastic to go soft
-* Spring locking mechanism
-* Bracket for swapping cups
-* Bracket for swapping weights
-* Using a normal motor
-* Diffeent size & power versions
-* Noise management
-* Analog speed control
-* Analog Timer
-* Analog Control (finishing programs)
-* Share Fusion 360 Design (Needs commercial version)
-
-## License
-
-This is open source. I don't know yet what's the best licence for an open source hardware project.
 
 ## Where to buy
 
@@ -257,7 +232,9 @@ For the motor and springs, pay attentions to the links tagged with __*__: the pr
 
 ## Acknowledgments
 
-I did not invent this. I took inspiration from videos I found on youtube. I made this because I don't have a workshop or tools to make this in wood, but I do have a 3D Printer, so there you go.
+* I did not invent this. 
+* I took inspiration from videos I found on youtube. 
+* I made a new one because I don't have a workshop or tools to make this in wood, but I do have a 3D Printer, so there you go.
 
 Some of the designs I found online:
 
@@ -266,3 +243,9 @@ Some of the designs I found online:
 * [DIY Vibratory Tumbler - Shop Projects](https://www.youtube.com/watch?v=S2Pq3ZCftGU)
 * [DIY - How to Make Tumbler Machine for Restoration Making with 12 Volts DC Fan](https://www.youtube.com/watch?v=Tck5VvBplBU)
 * [Buratto fai da te CON VENTOLA - Tumbler Machine DIY With FAN, low noise](https://www.youtube.com/watch?v=_1c_5yf9vLY&t=150s)
+
+
+## License
+
+Creative Commons Attribution 4.0 International (CC BY 4.0)
+https://creativecommons.org/licenses/by/4.0/
