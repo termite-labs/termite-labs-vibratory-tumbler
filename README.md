@@ -6,6 +6,7 @@ This is a small vibratory tumbler I put together with my 3D printer and parts I 
 
 This is a prototype and I welcome any help to improve the design. See [Contributing](#contributing) to know more.
 
+![Termite Labs Vibratory Tumbler](assets/instrcutions_assembly_complete.jpeg)
 ![Tumbling Walnut Shells](assets/tumbling_crushed_walnut_shells.gif)
 
 This project is also on [](Thingiverse)
@@ -33,7 +34,7 @@ Collect your materials, then head on to the [Instructions](#instructions). The o
 | Frame Top | Print flat face down, no supports <br/> [Download STL](TVT-Micro-0.5-Frame-Top.stl) | ![Base](assets/thumbs/parts_frame_top.jpeg)
 | Weight Part A | Print flat face down, supports only in the head part <br/> [Download STL](TVT-Micro-0.5-Weight-A.stl) | ![Base](assets/thumbs/parts_weight_part_a.jpeg)
 | Weight Part B | Print flat face down, no supports <br/> [Download STL](TVT-Micro-0.5-Weight-B.stl) | ![Base](assets/thumbs/parts_weight_part_b.jpeg)
-| DC Motor |  The frame and weight are designed to fit exactly this motor.  <br/>This works, but in future versions I would like to use a more common motor (see [Contributing](#contributing). The existing counterweight doubles as an attachment for our own counterweight. On the bad side, this motor does not come with any specs (power required or rotation speed). | ![](assets/parts/final.motor.thumb.jpg)
+| DC Motor |  The frame and weight are designed to fit exactly this motor.  <br/>This works, but in future versions I would like to use a more common motor (see [Contributing](#contributing)). The existing counterweight doubles as an attachment for our own counterweight. On the bad side, this motor does not come with any specs (power required or rotation speed). | ![](assets/parts/final.motor.thumb.jpg)
 | Springs | 4 Springs that connect the base to the top. The is designed to fit exactly the springs dimensions. | ![Springs](assets/thumbs/parts_springs.jpeg)
 | Tumbling Container | I used what I had at home. Any round plastic cup approx 10cm (4") diameter should work. If you find a good one, please let me know. | ![Container](assets/thumbs/parts_tumbling_cup.jpeg)
 | Screws, Bolts and Washers | * 2x M2 14mm screws <br/> * 4x M4 28mm screws <br/> * 8x M4 Bolts <br/> * 8 M4 Washers <br/> 2 M2 Washers <br/> I used plastic washers, but I suspect any will do  | ![Screws and Bolts](assets/thumbs/parts_all_screws.jpeg)
@@ -46,7 +47,7 @@ Collect your materials, then head on to the [Instructions](#instructions). The o
 | Hook Up Wire | To connect power to the motor.   | ![Hook Up Wire](assets/thumbs/parts_hook_up_wire.jpeg)
 | Pliers | Used to modify the motor.  | ![Pliers](assets/thumbs/parts_pliers.jpeg) |
 | Zip Ties | 1 Zip tie, used to fix the wiring to the motor | ![Zip Ties](assets/thumbs/parts_zip_ties.jpeg)
-| 3D Printer | Of course you also need access to a 3D Printer. I use a Monoprice Voxel (same as a FlashForge Adventurer 3). It's an entry level printer and it works perfectly. You should be fine whater printer you have. | ![Monoprice Voxel](assets/thumbs/parts_3d_printer.jpg)
+| 3D Printer | Of course you also need access to a 3D Printer. I use a Monoprice Voxel (same as a FlashForge Adventurer 3). It's an entry level printer and it works perfectly. You should be fine with any printer with a 10mm+ print bed. | ![Monoprice Voxel](assets/thumbs/parts_3d_printer.jpeg)
 
 ## Instructions
 
