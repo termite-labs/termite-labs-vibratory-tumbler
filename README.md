@@ -9,7 +9,7 @@ This is a prototype and I welcome any help to improve the design. See [Contribut
 ![Termite Labs Vibratory Tumbler](assets/instrcutions_assembly_complete.jpeg)
 ![Tumbling Walnut Shells](assets/tumbling_crushed_walnut_shells.gif)
 
-This project is also on [](Thingiverse)
+This project is also on [Thingiverse](https://www.thingiverse.com/thing:4696359)
 
 ## Safety Warning
 * This projects features a __rapidly spinning electric motor__ with an eccenric load
