@@ -38,9 +38,9 @@ Collect your materials, then head on to the [Instructions](#instructions). The o
 | Springs | 4 Springs that connect the base to the top. The is designed to fit exactly the springs dimensions. | ![Springs](assets/thumbs/parts_springs.jpeg)
 | Tumbling Container | I used what I had at home. Any round plastic cup approx 10cm (4") diameter should work. If you find a good one, please let me know. | ![Container](assets/thumbs/parts_tumbling_cup.jpeg)
 | Screws, Bolts and Washers | * 2x M2 14mm screws <br/> * 4x M4 28mm screws <br/> * 8x M4 Bolts <br/> * 8 M4 Washers <br/> 2 M2 Washers <br/> I used plastic washers, but I suspect any will do  | ![Screws and Bolts](assets/thumbs/parts_all_screws.jpeg)
-| 12V Power Adapter | I bought the ceapest 30W I could find. This one is convenient because it comes with multiple connectors. An adapter you already have may just work.| ![Power Brick](assets/parts/final.power_brick.jpg)
+| 12V Power Adapter | I bought the cheapest 30W I could find. This one is convenient because it comes with multiple connectors. An adapter you already have may just work.| ![Power Brick](assets/parts/final.power_brick.jpg)
 | DC Plug Connectors | | ![Power Brick](assets/thumbs/instructions_dc_female_plug.jpeg)
-| Rubber Feet | Just some rubber feet to limit the tmbler moving around. These are not very effective. | ![Rubber Feet](assets/thumbs/parts_rubber_feet.jpeg)
+| Rubber Feet | Just some rubber feet to limit the tmbler moving around. These are not very effective, but much better than nothing. | ![Rubber Feet](assets/thumbs/parts_rubber_feet.jpeg)
 | Tumbling Media | I briefly tried out three tumbling media options: <br/> screws, steel pins, and crushed walnut shells. See [Tumbling](#tumbling) for more info. | ![Screws](assets/thumbs/parts_tumbling_screws.jpeg) ![Walnuts](assets/thumbs/parts_tumbling_steel_pins.jpeg) ![Steel Pins](assets/thumbs/parts_tumbling_walnuts.jpeg)
 | Soldering Iron | You'll need to solder two wires to the motor. It's a small job and any soldering iron will do. I use an Hakko station, it's great. | ![Soldering Iron](assets/thumbs/parts_soldering_iron.jpeg) |
 | Solder | Any solder should do.  | ![Solder](assets/thumbs/parts_solder.jpeg)  
